@@ -1,0 +1,728 @@
+start_time,end_time,Duration (mS),Voltage (mV),Remaining_charge (mAh),Intensity (mA),Power (W),Consumed charge(mAh),Energy (J),Top app,Screen(ON/OFF),GPS(ON/OFF),Mobile_Radio(ON/OFF),WiFi(ON/OFF),Wifi radio,Camera(ON/OFF),Video (ON/OFF),Audio(ON/OFF),Wakelock_in (Service)
+1731579402439,1731579402612,173,4263,3973,402.427340,1.715548,0.019339,0.296790,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402612,1731579402626,14,4263,3973,402.427340,1.715548,0.001565,0.024018,com.twitter.android,True,False,True,False,False,False,True,True,"['*gms_scheduler*:internal' 'AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402626,1731579402628,2,4263,3973,402.427340,1.715548,0.000224,0.003431,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402628,1731579402631,3,4263,3973,402.427340,1.715548,0.000335,0.005147,com.twitter.android,True,False,True,False,False,False,True,True,"['*gms_scheduler*:internal' 'AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402631,1731579402636,5,4263,3973,402.427340,1.715548,0.000559,0.008578,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402636,1731579402637,1,4263,3973,402.427340,1.715548,0.000112,0.001716,com.twitter.android,True,False,True,False,False,False,True,False,"['*launch*' '*job*/com.miui.weather2/.service.job.ScheduleCheckService'
+ 'screen']"
+1731579402637,1731579402763,126,4263,3973,402.427340,1.715548,0.014085,0.216159,com.twitter.android,True,False,True,False,False,False,True,False,"['*launch*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579402763,1731579403834,1071,4263,3973,402.427340,1.715548,0.119722,1.837352,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579403834,1731579403875,41,4263,3973,402.427340,1.715548,0.004583,0.070337,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579403875,1731579405640,1765,4263,3973,402.427340,1.715548,0.197301,3.027942,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579405640,1731579415147,9507,4263,3973,402.427340,1.715548,1.062744,16.309712,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579415147,1731579415371,224,4263,3973,402.427340,1.715548,0.025040,0.384283,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415371,1731579415372,1,4263,3973,402.427340,1.715548,0.000112,0.001716,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579415372,1731579415847,475,4263,3973,402.427340,1.715548,0.053098,0.814885,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415847,1731579415855,8,4263,3973,402.427340,1.715548,0.000894,0.013724,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415855,1731579415871,16,4263,3973,402.427340,1.715548,0.001789,0.027449,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415871,1731579415960,89,4263,3973,402.427340,1.715548,0.009949,0.152684,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415960,1731579415980,20,4263,3973,402.427340,1.715548,0.002236,0.034311,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579415980,1731579416486,506,4263,3973,402.427340,1.715548,0.056563,0.868067,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579416486,1731579417465,979,4263,3973,402.427340,1.715548,0.109438,1.679521,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417465,1731579417536,71,4263,3973,402.427340,1.715548,0.007937,0.121804,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138' '*launch*'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417536,1731579417607,71,4263,3973,402.427340,1.715548,0.007937,0.121804,com.twitter.android,True,False,True,False,False,False,True,True,"['*launch*'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417607,1731579417625,18,4263,3973,402.427340,1.715548,0.002012,0.030880,com.twitter.android,True,False,True,False,False,False,True,True,"['*launch*'
+ '*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417625,1731579417629,4,4263,3973,402.427340,1.715548,0.000447,0.006862,com.twitter.android,True,False,True,False,False,False,True,True,"['*launch*' '*gms_scheduler*:internal'
+ '*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417629,1731579417633,4,4263,3973,402.427340,1.715548,0.000447,0.006862,com.twitter.android,True,False,True,False,False,False,True,True,"['*gms_scheduler*:internal'
+ '*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417633,1731579417638,5,4263,3973,402.427340,1.715548,0.000559,0.008578,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417638,1731579417642,4,4263,3973,402.427340,1.715548,0.000447,0.006862,com.twitter.android,True,False,True,False,False,False,True,True,"['*gms_scheduler*:internal'
+ '*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417642,1731579417644,2,4263,3973,402.427340,1.715548,0.000224,0.003431,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579417644,1731579418755,1111,4263,3973,402.427340,1.715548,0.124194,1.905974,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579418755,1731579418775,20,4263,3973,402.427340,1.715548,0.002236,0.034311,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats'
+ '*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579418775,1731579419230,455,4263,3973,402.427340,1.715548,0.050862,0.780574,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579419230,1731579420004,774,4263,3973,402.427340,1.715548,0.086522,1.327834,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579420004,1731579420006,2,4263,3973,402.427340,1.715548,0.000224,0.003431,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579420006,1731579421811,1805,4263,3973,402.427340,1.715548,0.201773,3.096564,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579421811,1731579421835,24,4263,3973,402.427340,1.715548,0.002683,0.041173,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579421835,1731579421964,129,4263,3973,402.427340,1.715548,0.014420,0.221306,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579421964,1731579422460,496,4263,3973,402.427340,1.715548,0.055446,0.850912,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579422460,1731579423146,686,4263,3973,402.427340,1.715548,0.076685,1.176866,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579423146,1731579423178,32,4263,3973,402.427340,1.715548,0.003577,0.054898,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579423178,1731579426219,3041,4263,3973,402.427340,1.715548,0.339939,5.216981,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579426219,1731579426255,36,4263,3973,402.427340,1.715548,0.004024,0.061760,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579426255,1731579429210,2955,4263,3973,402.427340,1.715548,0.330326,5.069444,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579429210,1731579429246,36,4263,3973,402.427340,1.715548,0.004024,0.061760,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579429246,1731579432619,3373,4263,3973,402.427340,1.715548,0.377052,5.786543,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579432619,1731579432652,33,4263,3973,402.427340,1.715548,0.003689,0.056613,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579432652,1731579435085,2433,4263,3973,402.427340,1.715548,0.271974,4.173928,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579435085,1731579435116,31,4263,3973,402.427340,1.715548,0.003465,0.053182,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579435116,1731579436429,1313,4263,3973,402.427340,1.715548,0.146774,2.252514,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579436429,1731579436481,52,4263,3973,402.427340,1.715548,0.005813,0.089208,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579436481,1731579436488,7,4263,3973,402.427340,1.715548,0.000782,0.012009,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579436488,1731579436978,490,4263,3973,402.427340,1.715548,0.054775,0.840618,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579436978,1731579436979,1,4263,3973,402.427340,1.715548,0.000112,0.001716,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579436979,1731579437883,904,4263,3973,402.427340,1.715548,0.101054,1.550855,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579437883,1731579437920,37,4263,3973,402.427340,1.715548,0.004136,0.063475,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579437920,1731579445693,7773,4263,3973,402.427340,1.715548,0.868908,13.334953,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579445693,1731579445709,16,4263,3973,402.427340,1.715548,0.001789,0.027449,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579445709,1731579445727,18,4263,3973,402.427340,1.715548,0.002012,0.030880,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579445727,1731579445736,9,4263,3973,402.427340,1.715548,0.001006,0.015440,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579445736,1731579448244,2508,4263,3973,402.427340,1.715548,0.280358,4.302594,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579448244,1731579448245,1,4263,3973,402.427340,1.715548,0.000112,0.001716,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579448245,1731579448644,399,4263,3973,402.427340,1.715548,0.044602,0.684504,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579448644,1731579449183,539,4263,3973,402.427340,1.715548,0.060252,0.924680,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579449183,1731579449218,35,4263,3973,402.427340,1.715548,0.003912,0.060044,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579449218,1731579449484,266,4263,3973,402.427340,1.715548,0.029735,0.456336,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579449484,1731579449724,240,4263,3973,402.427340,1.715548,0.026828,0.411731,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579449724,1731579450667,943,4263,3973,402.427340,1.715548,0.105414,1.617762,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579450667,1731579450696,29,4263,3973,402.427340,1.715548,0.003242,0.049751,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579450696,1731579457605,6909,4263,3973,402.427340,1.715548,0.772325,11.852719,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579457605,1731579457725,120,4263,3973,402.427340,1.715548,0.013414,0.205866,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579457725,1731579458099,374,4263,3973,402.427340,1.715548,0.041808,0.641615,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579458099,1731579458100,1,4263,3973,402.427340,1.715548,0.000112,0.001716,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579458100,1731579458659,559,4263,3973,402.427340,1.715548,0.062488,0.958991,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579458659,1731579458676,17,4263,3973,402.427340,1.715548,0.001900,0.029164,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579458676,1731579461369,2693,4263,3973,402.427340,1.715548,0.301038,4.619970,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579461369,1731579462357,988,4263,3966,469.299961,2.000626,0.128797,1.976618,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579462357,1731579464901,2544,4263,3966,469.299961,2.000626,0.331639,5.089592,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579464901,1731579464933,32,4263,3966,469.299961,2.000626,0.004172,0.064020,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579464933,1731579468884,3951,4263,3966,469.299961,2.000626,0.515057,7.904472,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579468884,1731579468885,1,4263,3966,469.299961,2.000626,0.000130,0.002001,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579468885,1731579469040,155,4263,3966,469.299961,2.000626,0.020206,0.310097,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579469040,1731579469050,10,4263,3965,538.368072,2.295063,0.001495,0.022951,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579469050,1731579469123,73,4263,3965,538.368072,2.295063,0.010917,0.167540,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579469123,1731579469124,1,4263,3965,538.368072,2.295063,0.000150,0.002295,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579469124,1731579469961,837,4263,3965,538.368072,2.295063,0.125171,1.920968,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579469961,1731579469988,27,4263,3965,538.368072,2.295063,0.004038,0.061967,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579469988,1731579472834,2846,4263,3965,538.368072,2.295063,0.425610,6.531750,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579472834,1731579472868,34,4263,3965,538.368072,2.295063,0.005085,0.078032,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579472868,1731579474124,1256,4263,3965,538.368072,2.295063,0.187831,2.882599,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474124,1731579474203,79,4263,3965,538.368072,2.295063,0.011814,0.181310,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474203,1731579474222,19,4263,3965,538.368072,2.295063,0.002841,0.043606,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474222,1731579474332,110,4263,3965,538.368072,2.295063,0.016450,0.252457,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474332,1731579474564,232,4263,3965,538.368072,2.295063,0.034695,0.532455,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474564,1731579474570,6,4263,3965,538.368072,2.295063,0.000897,0.013770,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579474570,1731579474770,200,4263,3965,538.368072,2.295063,0.029909,0.459013,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579474770,1731579475164,394,4263,3965,538.368072,2.295063,0.058921,0.904255,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579475164,1731579475346,182,4263,3965,538.368072,2.295063,0.027217,0.417701,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579475346,1731579475374,28,4263,3965,538.368072,2.295063,0.004187,0.064262,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579475374,1731579475404,30,4263,3965,538.368072,2.295063,0.004486,0.068852,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579475404,1731579476418,1014,4263,3965,538.368072,2.295063,0.151640,2.327194,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579476418,1731579476443,25,4263,3965,538.368072,2.295063,0.003739,0.057377,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579476443,1731579477970,1527,4263,3965,538.368072,2.295063,0.228358,3.504561,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579477970,1731579477973,3,4263,3965,538.368072,2.295063,0.000449,0.006885,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579477973,1731579477980,7,4263,3965,538.368072,2.295063,0.001047,0.016065,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579477980,1731579477982,2,4263,3965,538.368072,2.295063,0.000299,0.004590,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579477982,1731579478393,411,4263,3965,538.368072,2.295063,0.061464,0.943271,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579478393,1731579478462,69,4263,3965,538.368072,2.295063,0.010319,0.158359,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579478462,1731579479135,673,4263,3965,538.368072,2.295063,0.100645,1.544577,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579479135,1731579479161,26,4263,3965,538.368072,2.295063,0.003888,0.059672,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579479161,1731579480004,843,4263,3965,538.368072,2.295063,0.126068,1.934738,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579480004,1731579480006,2,4263,3965,538.368072,2.295063,0.000299,0.004590,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579480006,1731579482144,2138,4263,3965,538.368072,2.295063,0.319731,4.906845,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579482144,1731579482177,33,4263,3965,538.368072,2.295063,0.004935,0.075737,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579482177,1731579483404,1227,4263,3965,538.368072,2.295063,0.183494,2.816042,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579483404,1731579483533,129,4263,3965,538.368072,2.295063,0.019292,0.296063,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579483533,1731579484459,926,4263,3965,538.368072,2.295063,0.138480,2.125228,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579484459,1731579484492,33,4263,3965,538.368072,2.295063,0.004935,0.075737,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579484492,1731579486044,1552,4263,3965,538.368072,2.295063,0.232096,3.561938,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579486044,1731579486047,3,4263,3965,538.368072,2.295063,0.000449,0.006885,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579486047,1731579486295,248,4263,3965,538.368072,2.295063,0.037088,0.569176,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579486295,1731579487099,804,4263,3965,538.368072,2.295063,0.120236,1.845231,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579487099,1731579487119,20,4263,3965,538.368072,2.295063,0.002991,0.045901,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579487119,1731579489724,2605,4263,3965,538.368072,2.295063,0.389569,5.978639,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579489724,1731579489947,223,4263,3965,538.368072,2.295063,0.033349,0.511799,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579489947,1731579489948,1,4263,3965,538.368072,2.295063,0.000150,0.002295,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579489948,1731579490105,157,4263,3965,538.368072,2.295063,0.023479,0.360325,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579490105,1731579490136,31,4263,3965,538.368072,2.295063,0.004636,0.071147,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579490136,1731579493710,3574,4263,3965,538.368072,2.295063,0.534480,8.202555,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579493710,1731579493742,32,4263,3965,538.368072,2.295063,0.004785,0.073442,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579493742,1731579499748,6006,4263,3965,538.368072,2.295063,0.898177,13.784149,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579499748,1731579499776,28,4263,3965,538.368072,2.295063,0.004187,0.064262,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579499776,1731579506153,6377,4263,3965,538.368072,2.295063,0.953659,14.635617,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579506153,1731579506154,1,4263,3965,538.368072,2.295063,0.000150,0.002295,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:miui.intent.action.powerkeeper_alarm' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579506154,1731579506168,14,4263,3965,538.368072,2.295063,0.002094,0.032131,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579506168,1731579506188,20,4263,3965,538.368072,2.295063,0.002991,0.045901,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579506188,1731579507430,1242,4263,3965,538.368072,2.295063,0.185737,2.850468,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579507430,1731579507458,28,4263,3965,538.368072,2.295063,0.004187,0.064262,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579507458,1731579510487,3029,4263,3965,538.368072,2.295063,0.452977,6.951746,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579510487,1731579510516,29,4263,3965,538.368072,2.295063,0.004337,0.066557,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579510516,1731579513496,2980,4263,3965,538.368072,2.295063,0.445649,6.839288,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579513496,1731579513529,33,4263,3965,538.368072,2.295063,0.004935,0.075737,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579513529,1731579520103,6574,4263,3965,538.368072,2.295063,0.983120,15.087745,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579520103,1731579520244,141,4263,3965,538.368072,2.295063,0.021086,0.323604,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579520244,1731579520405,161,4263,3965,538.368072,2.295063,0.024077,0.369505,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579520405,1731579520424,19,4263,3965,538.368072,2.295063,0.002841,0.043606,com.twitter.android,True,False,True,False,False,False,False,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579520424,1731579520884,460,4263,3965,538.368072,2.295063,0.068791,1.055729,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579520884,1731579521164,280,4263,3965,538.368072,2.295063,0.041873,0.642618,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579521164,1731579521165,1,4263,3965,538.368072,2.295063,0.000150,0.002295,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579521165,1731579521293,128,4263,3965,538.368072,2.295063,0.019142,0.293768,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579521293,1731579521294,1,4263,3965,538.368072,2.295063,0.000150,0.002295,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579521294,1731579521850,556,4263,3965,538.368072,2.295063,0.083148,1.276055,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579521850,1731579521866,16,4263,3965,538.368072,2.295063,0.002393,0.036721,com.twitter.android,True,False,True,False,False,False,False,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579521866,1731579521928,62,4263,3965,538.368072,2.295063,0.009272,0.142294,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579521928,1731579522535,607,4263,3965,538.368072,2.295063,0.090775,1.393103,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579522535,1731579522569,34,4218,3957,481.709687,2.031851,0.004549,0.069083,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579522569,1731579523420,851,4218,3957,481.709687,2.031851,0.113871,1.729106,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579523420,1731579523434,14,4218,3957,481.709687,2.031851,0.001873,0.028446,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579523434,1731579523445,11,4218,3957,481.709687,2.031851,0.001472,0.022350,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579523445,1731579523685,240,4218,3957,481.709687,2.031851,0.032114,0.487644,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579523685,1731579524404,719,4218,3957,481.709687,2.031851,0.096208,1.460901,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579524404,1731579524405,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579524405,1731579524600,195,4218,3957,481.709687,2.031851,0.026093,0.396211,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579524600,1731579524603,3,4218,3957,481.709687,2.031851,0.000401,0.006096,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'NetworkStats'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579524603,1731579524618,15,4218,3957,481.709687,2.031851,0.002007,0.030478,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579524618,1731579525444,826,4218,3957,481.709687,2.031851,0.110526,1.678309,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579525444,1731579525734,290,4218,3957,481.709687,2.031851,0.038804,0.589237,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579525734,1731579525751,17,4218,3957,481.709687,2.031851,0.002275,0.034541,com.twitter.android,True,False,True,False,False,False,False,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579525751,1731579526043,292,4218,3957,481.709687,2.031851,0.039072,0.593301,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579526043,1731579526044,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579526044,1731579527046,1002,4218,3957,481.709687,2.031851,0.134076,2.035915,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579527046,1731579527062,16,4218,3957,481.709687,2.031851,0.002141,0.032510,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579527062,1731579527604,542,4218,3957,481.709687,2.031851,0.072524,1.101263,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579527604,1731579528044,440,4218,3957,481.709687,2.031851,0.058876,0.894015,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579528044,1731579528764,720,4218,3957,481.709687,2.031851,0.096342,1.462933,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579528764,1731579528765,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579528765,1731579528938,173,4218,3957,481.709687,2.031851,0.023149,0.351510,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579528938,1731579528958,20,4218,3957,481.709687,2.031851,0.002676,0.040637,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579528958,1731579529011,53,4218,3957,481.709687,2.031851,0.007092,0.107688,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579529011,1731579529012,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579529012,1731579530052,1040,4218,3957,481.709687,2.031851,0.139161,2.113126,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579530052,1731579530088,36,4218,3957,481.709687,2.031851,0.004817,0.073147,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579530088,1731579532793,2705,4218,3957,481.709687,2.031851,0.361951,5.496158,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579532793,1731579532814,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579532814,1731579533684,870,4218,3957,481.709687,2.031851,0.116413,1.767711,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579533684,1731579533884,200,4218,3957,481.709687,2.031851,0.026762,0.406370,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579533884,1731579534689,805,4218,3957,481.709687,2.031851,0.107716,1.635640,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579534689,1731579534719,30,4218,3957,481.709687,2.031851,0.004014,0.060956,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579534719,1731579535845,1126,4218,3957,481.709687,2.031851,0.150668,2.287865,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579535845,1731579535847,2,4218,3957,481.709687,2.031851,0.000268,0.004064,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579535847,1731579536501,654,4218,3957,481.709687,2.031851,0.087511,1.328831,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579536501,1731579536678,177,4218,3957,481.709687,2.031851,0.023684,0.359638,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579536678,1731579536696,18,4218,3957,481.709687,2.031851,0.002409,0.036573,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579536696,1731579537124,428,4218,3957,481.709687,2.031851,0.057270,0.869632,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579537124,1731579537404,280,4218,3957,481.709687,2.031851,0.037466,0.568918,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579537404,1731579538171,767,4218,3957,481.709687,2.031851,0.102631,1.558430,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579538171,1731579538201,30,4218,3957,481.709687,2.031851,0.004014,0.060956,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579538201,1731579538807,606,4218,3957,481.709687,2.031851,0.081088,1.231302,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579538807,1731579538975,168,4218,3957,481.709687,2.031851,0.022480,0.341351,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579538975,1731579539892,917,4218,3957,481.709687,2.031851,0.122702,1.863208,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579539892,1731579539905,13,4218,3957,481.709687,2.031851,0.001740,0.026414,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579539905,1731579540003,98,4218,3957,481.709687,2.031851,0.013113,0.199121,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540003,1731579540004,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540004,1731579540043,39,4218,3957,481.709687,2.031851,0.005219,0.079242,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540043,1731579540044,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579540044,1731579540172,128,4218,3957,481.709687,2.031851,0.017127,0.260077,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540172,1731579540605,433,4218,3957,481.709687,2.031851,0.057939,0.879792,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540605,1731579540606,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579540606,1731579540844,238,4218,3957,481.709687,2.031851,0.031846,0.483581,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579540844,1731579541157,313,4218,3957,481.709687,2.031851,0.041882,0.635970,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579541157,1731579541183,26,4218,3957,481.709687,2.031851,0.003479,0.052828,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579541183,1731579545390,4207,4218,3957,481.709687,2.031851,0.562931,8.547999,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579545390,1731579545404,14,4218,3957,481.709687,2.031851,0.001873,0.028446,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'NetworkStats'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579545404,1731579545405,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579545405,1731579545653,248,4218,3957,481.709687,2.031851,0.033184,0.503899,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579545653,1731579546592,939,4218,3957,481.709687,2.031851,0.125646,1.907909,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579546592,1731579546621,29,4218,3957,481.709687,2.031851,0.003880,0.058924,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579546621,1731579549410,2789,4218,3957,481.709687,2.031851,0.373191,5.666834,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579549410,1731579549429,19,4218,3957,481.709687,2.031851,0.002542,0.038605,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579549429,1731579549804,375,4218,3957,481.709687,2.031851,0.050178,0.761944,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579549804,1731579550296,492,4218,3957,481.709687,2.031851,0.065834,0.999671,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579550296,1731579550884,588,4218,3957,481.709687,2.031851,0.078679,1.194729,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579550884,1731579551207,323,4218,3957,481.709687,2.031851,0.043220,0.656288,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579551207,1731579551224,17,4218,3957,481.709687,2.031851,0.002275,0.034541,com.twitter.android,True,False,True,False,False,False,False,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579551224,1731579551564,340,4218,3957,481.709687,2.031851,0.045495,0.690829,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579551564,1731579551764,200,4218,3957,481.709687,2.031851,0.026762,0.406370,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579551764,1731579552298,534,4218,3957,481.709687,2.031851,0.071454,1.085009,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579552298,1731579552557,259,4218,3957,481.709687,2.031851,0.034656,0.526250,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579552557,1731579552591,34,4218,3957,481.709687,2.031851,0.004549,0.069083,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579552591,1731579558629,6038,4218,3957,481.709687,2.031851,0.807934,12.268319,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579558629,1731579558657,28,4218,3957,481.709687,2.031851,0.003747,0.056892,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579558657,1731579561980,3323,4218,3957,481.709687,2.031851,0.444645,6.751842,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579561980,1731579562016,36,4218,3957,481.709687,2.031851,0.004817,0.073147,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579562016,1731579566639,4623,4218,3957,481.709687,2.031851,0.618596,9.393249,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579566639,1731579566651,12,4218,3957,481.709687,2.031851,0.001606,0.024382,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579566651,1731579566678,27,4218,3957,481.709687,2.031851,0.003613,0.054860,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579566678,1731579566684,6,4218,3957,481.709687,2.031851,0.000803,0.012191,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579566684,1731579567603,919,4218,3957,481.709687,2.031851,0.122970,1.867271,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579567603,1731579567651,48,4218,3957,481.709687,2.031851,0.006423,0.097529,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579567651,1731579582644,14993,4218,3957,481.709687,2.031851,2.006187,30.463549,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579582644,1731579582889,245,4218,3957,481.709687,2.031851,0.032783,0.497804,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579582889,1731579582890,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579582890,1731579583684,794,4218,3957,481.709687,2.031851,0.106244,1.613290,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579583684,1731579583693,9,4218,3957,481.709687,2.031851,0.001204,0.018287,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579583693,1731579583694,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579583694,1731579583772,78,4218,3957,481.709687,2.031851,0.010437,0.158484,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579583772,1731579583787,15,4218,3957,481.709687,2.031851,0.002007,0.030478,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579583787,1731579586020,2233,4218,3957,481.709687,2.031851,0.298794,4.537124,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579586020,1731579586124,104,4218,3957,481.709687,2.031851,0.013916,0.211313,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579586124,1731579586364,240,4218,3957,481.709687,2.031851,0.032114,0.487644,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579586364,1731579587250,886,4218,3957,481.709687,2.031851,0.118554,1.800220,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579587250,1731579587281,31,4218,3957,481.709687,2.031851,0.004148,0.062987,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579587281,1731579588430,1149,4218,3957,481.709687,2.031851,0.153746,2.334597,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579588430,1731579588451,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579588451,1731579590082,1631,4218,3957,481.709687,2.031851,0.218241,3.313950,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579590082,1731579590119,37,4218,3957,481.709687,2.031851,0.004951,0.075179,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579590119,1731579593102,2983,4218,3957,481.709687,2.031851,0.399150,6.061013,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579593102,1731579593121,19,4218,3957,481.709687,2.031851,0.002542,0.038605,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579593121,1731579596090,2969,4218,3957,481.709687,2.031851,0.397277,6.032567,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579596090,1731579596127,37,4218,3957,481.709687,2.031851,0.004951,0.075179,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579596127,1731579596484,357,4218,3957,481.709687,2.031851,0.047770,0.725371,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579596484,1731579596654,170,4218,3957,481.709687,2.031851,0.022747,0.345415,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579596654,1731579597704,1050,4218,3957,481.709687,2.031851,0.140499,2.133444,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579597704,1731579597723,19,4218,3957,481.709687,2.031851,0.002542,0.038605,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579597723,1731579598284,561,4218,3957,481.709687,2.031851,0.075066,1.139869,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579598284,1731579598285,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579598285,1731579598729,444,4218,3957,481.709687,2.031851,0.059411,0.902142,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579598729,1731579599524,795,4218,3957,481.709687,2.031851,0.106378,1.615322,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579599524,1731579599672,148,4218,3957,481.709687,2.031851,0.019804,0.300714,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579599672,1731579599703,31,4218,3957,481.709687,2.031851,0.004148,0.062987,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579599703,1731579599764,61,4218,3957,481.709687,2.031851,0.008162,0.123943,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579599764,1731579600004,240,4218,3957,481.709687,2.031851,0.032114,0.487644,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579600004,1731579600006,2,4218,3957,481.709687,2.031851,0.000268,0.004064,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579600006,1731579600820,814,4218,3957,481.709687,2.031851,0.108920,1.653927,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579600820,1731579600855,35,4218,3957,481.709687,2.031851,0.004683,0.071115,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579600855,1731579603489,2634,4218,3957,481.709687,2.031851,0.352451,5.351897,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579603489,1731579603514,25,4218,3957,481.709687,2.031851,0.003345,0.050796,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579603514,1731579605485,1971,4218,3957,481.709687,2.031851,0.263736,4.004779,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579605485,1731579605889,404,4218,3957,481.709687,2.031851,0.054059,0.820868,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579605889,1731579606813,924,4218,3957,481.709687,2.031851,0.123639,1.877431,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579606813,1731579606838,25,4218,3957,481.709687,2.031851,0.003345,0.050796,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579606838,1731579609145,2307,4218,3957,481.709687,2.031851,0.308696,4.687481,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579609145,1731579609175,30,4218,3957,481.709687,2.031851,0.004014,0.060956,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579609175,1731579614317,5142,4218,3957,481.709687,2.031851,0.688042,10.447780,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579614317,1731579614444,127,4218,3957,481.709687,2.031851,0.016994,0.258045,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579614444,1731579614844,400,4218,3957,481.709687,2.031851,0.053523,0.812741,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579614844,1731579615042,198,4218,3957,481.709687,2.031851,0.026494,0.402307,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579615042,1731579615075,33,4218,3957,481.709687,2.031851,0.004416,0.067051,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579615075,1731579618618,3543,4218,3957,481.709687,2.031851,0.474083,7.198850,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579618618,1731579618651,33,4218,3957,481.709687,2.031851,0.004416,0.067051,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579618651,1731579624642,5991,4218,3957,481.709687,2.031851,0.801645,12.172822,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579624642,1731579624677,35,4218,3957,481.709687,2.031851,0.004683,0.071115,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579624677,1731579627281,2604,4218,3957,481.709687,2.031851,0.348437,5.290941,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627281,1731579627298,17,4218,3957,481.709687,2.031851,0.002275,0.034541,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627298,1731579627323,25,4218,3957,481.709687,2.031851,0.003345,0.050796,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627323,1731579627324,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627324,1731579627584,260,4218,3957,481.709687,2.031851,0.034790,0.528281,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627584,1731579627617,33,4218,3957,481.709687,2.031851,0.004416,0.067051,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579627617,1731579634344,6727,4218,3957,481.709687,2.031851,0.900128,13.668265,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579634344,1731579634447,103,4218,3957,481.709687,2.031851,0.013782,0.209281,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579634447,1731579634687,240,4218,3957,481.709687,2.031851,0.032114,0.487644,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579634687,1731579634711,24,4218,3957,481.709687,2.031851,0.003211,0.048764,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579634711,1731579634728,17,4218,3957,481.709687,2.031851,0.002275,0.034541,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579634728,1731579635125,397,4218,3957,481.709687,2.031851,0.053122,0.806645,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579635125,1731579635842,717,4218,3957,481.709687,2.031851,0.095941,1.456837,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579635842,1731579635871,29,4218,3957,481.709687,2.031851,0.003880,0.058924,com.twitter.android,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579635871,1731579636686,815,4218,3957,481.709687,2.031851,0.109054,1.655959,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579636686,1731579637456,770,4218,3957,481.709687,2.031851,0.103032,1.564526,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579637456,1731579637484,28,4218,3957,481.709687,2.031851,0.003747,0.056892,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579637484,1731579639484,2000,4218,3957,481.709687,2.031851,0.267616,4.063703,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579639484,1731579639485,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579639485,1731579640252,767,4218,3957,481.709687,2.031851,0.102631,1.558430,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579640252,1731579640512,260,4218,3957,481.709687,2.031851,0.034790,0.528281,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579640512,1731579640533,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579640533,1731579640764,231,4218,3957,481.709687,2.031851,0.030910,0.469358,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579640764,1731579640765,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579640765,1731579641249,484,4218,3957,481.709687,2.031851,0.064763,0.983416,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579641249,1731579642053,804,4218,3957,481.709687,2.031851,0.107582,1.633609,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579642053,1731579642084,31,4218,3957,481.709687,2.031851,0.004148,0.062987,com.twitter.android,True,False,True,False,False,False,False,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579642084,1731579642204,120,4218,3957,481.709687,2.031851,0.016057,0.243822,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579642204,1731579642574,370,4218,3957,481.709687,2.031851,0.049509,0.751785,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579642574,1731579642575,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579642575,1731579643044,469,4218,3957,481.709687,2.031851,0.062756,0.952938,com.twitter.android,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579643044,1731579643535,491,4218,3957,481.709687,2.031851,0.065700,0.997639,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579643535,1731579643556,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579643556,1731579643570,14,4218,3957,481.709687,2.031851,0.001873,0.028446,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579643570,1731579644004,434,4218,3957,481.709687,2.031851,0.058073,0.881824,com.twitter.android,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579644004,1731579644644,640,4218,3957,481.709687,2.031851,0.085637,1.300385,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579644644,1731579644655,11,4218,3957,481.709687,2.031851,0.001472,0.022350,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'NetworkStats'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579644655,1731579644662,7,4218,3957,481.709687,2.031851,0.000937,0.014223,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579644662,1731579645805,1143,4218,3957,481.709687,2.031851,0.152943,2.322406,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579645805,1731579646015,210,4218,3957,481.709687,2.031851,0.028100,0.426689,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579646015,1731579646864,849,4218,3957,481.709687,2.031851,0.113603,1.725042,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579646864,1731579646885,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579646885,1731579648463,1578,4218,3957,481.709687,2.031851,0.211149,3.206262,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579648463,1731579648502,39,4218,3957,481.709687,2.031851,0.005219,0.079242,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579648502,1731579652763,4261,4218,3957,481.709687,2.031851,0.570157,8.657719,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579652763,1731579652799,36,4218,3957,481.709687,2.031851,0.004817,0.073147,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579652799,1731579660003,7204,4218,3957,481.709687,2.031851,0.963955,14.637458,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579660003,1731579660004,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579660004,1731579660044,40,4218,3957,481.709687,2.031851,0.005352,0.081274,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579660044,1731579660045,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,False,['*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']
+1731579660045,1731579660416,371,4218,3957,481.709687,2.031851,0.049643,0.753817,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579660416,1731579661202,786,4218,3957,481.709687,2.031851,0.105173,1.597035,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579661202,1731579661228,26,4218,3957,481.709687,2.031851,0.003479,0.052828,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579661228,1731579664208,2980,4218,3957,481.709687,2.031851,0.398749,6.054917,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579664208,1731579664236,28,4218,3957,481.709687,2.031851,0.003747,0.056892,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579664236,1731579666921,2685,4218,3957,481.709687,2.031851,0.359275,5.455521,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579666921,1731579666922,1,4218,3957,481.709687,2.031851,0.000134,0.002032,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579666922,1731579666933,11,4218,3957,481.709687,2.031851,0.001472,0.022350,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579666933,1731579666965,32,4218,3957,481.709687,2.031851,0.004282,0.065019,com.twitter.android,True,False,True,False,False,False,True,True,"['*telephony-radio*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579666965,1731579670147,3182,4218,3957,481.709687,2.031851,0.425778,6.465351,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579670147,1731579670181,34,4218,3957,481.709687,2.031851,0.004549,0.069083,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579670181,1731579676138,5957,4218,3957,481.709687,2.031851,0.797096,12.103739,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579676138,1731579676159,21,4218,3957,481.709687,2.031851,0.002810,0.042669,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579676159,1731579679446,3287,4218,3957,481.709687,2.031851,0.439828,6.678696,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579679446,1731579679476,30,4218,3957,481.709687,2.031851,0.004014,0.060956,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579679476,1731579685157,5681,4218,3936,460.790170,1.943613,0.727152,11.041665,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579685157,1731579685193,36,4218,3936,460.790170,1.943613,0.004608,0.069970,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579685193,1731579688213,3020,4218,3936,460.790170,1.943613,0.386552,5.869711,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579688213,1731579688239,26,4218,3936,460.790170,1.943613,0.003328,0.050534,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579688239,1731579689789,1550,4218,3936,460.790170,1.943613,0.198396,3.012600,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579689789,1731579689799,10,4218,3936,460.790170,1.943613,0.001280,0.019436,com.twitter.android,True,False,True,False,False,False,True,True,"['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579689799,1731579689828,29,4218,3936,460.790170,1.943613,0.003712,0.056365,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579689828,1731579694161,4333,4218,3936,460.790170,1.943613,0.554612,8.421675,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"
+1731579694161,1731579694195,34,4218,3936,460.790170,1.943613,0.004352,0.066083,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138'
+ '*job*/com.miui.weather2/.service.job.ScheduleCheckService' 'screen']"

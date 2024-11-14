@@ -1,0 +1,672 @@
+start_time,end_time,Duration (mS),Voltage (mV),Remaining_charge (mAh),Intensity (mA),Power (W),Consumed charge(mAh),Energy (J),Top app,Screen(ON/OFF),GPS(ON/OFF),Mobile_Radio(ON/OFF),WiFi(ON/OFF),Wifi radio,Camera(ON/OFF),Video (ON/OFF),Audio(ON/OFF),Wakelock_in (Service)
+1731579877654,1731579877685,31,4279,3925,456.389452,1.952890,0.003930,0.060540,com.twitter.android,True,False,True,False,False,False,False,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579877685,1731579879410,1725,4279,3925,456.389452,1.952890,0.218687,3.368736,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579879410,1731579884569,5159,4279,3925,456.389452,1.952890,0.654031,10.074962,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579884569,1731579884779,210,4279,3925,456.389452,1.952890,0.026623,0.410107,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579884779,1731579885261,482,4279,3925,456.389452,1.952890,0.061105,0.941293,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579885261,1731579885263,2,4279,3925,456.389452,1.952890,0.000254,0.003906,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579885263,1731579885379,116,4279,3925,456.389452,1.952890,0.014706,0.226535,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579885379,1731579885402,23,4279,3925,456.389452,1.952890,0.002916,0.044916,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579885402,1731579885481,79,4279,3925,456.389452,1.952890,0.010015,0.154278,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579885481,1731579885482,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579885482,1731579885741,259,4279,3925,456.389452,1.952890,0.032835,0.505799,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579885741,1731579885778,37,4279,3925,456.389452,1.952890,0.004691,0.072257,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579885778,1731579885970,192,4279,3925,456.389452,1.952890,0.024341,0.374955,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579885970,1731579885974,4,4279,3925,456.389452,1.952890,0.000507,0.007812,com.twitter.android,True,False,True,False,False,False,True,True,['*gms_scheduler*:internal' 'AudioMix AudioOut_1D1138' 'screen']
+1731579885974,1731579888028,2054,4279,3925,456.389452,1.952890,0.260396,4.011237,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579888028,1731579888049,21,4279,3925,456.389452,1.952890,0.002662,0.041011,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579888049,1731579888063,14,4279,3925,456.389452,1.952890,0.001775,0.027340,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579888063,1731579888465,402,4279,3925,456.389452,1.952890,0.050963,0.785062,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579888465,1731579888470,5,4279,3925,456.389452,1.952890,0.000634,0.009764,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579888470,1731579888928,458,4279,3925,456.389452,1.952890,0.058063,0.894424,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579888928,1731579889105,177,4279,3925,456.389452,1.952890,0.022439,0.345662,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579889105,1731579889106,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731579889106,1731579889173,67,4279,3925,456.389452,1.952890,0.008494,0.130844,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579889173,1731579890385,1212,4279,3925,456.389452,1.952890,0.153651,2.366903,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579890385,1731579890406,21,4279,3925,456.389452,1.952890,0.002662,0.041011,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579890406,1731579891196,790,4279,3925,456.389452,1.952890,0.100152,1.542783,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579891196,1731579891200,4,4279,3925,456.389452,1.952890,0.000507,0.007812,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579891200,1731579892107,907,4279,3925,456.389452,1.952890,0.114985,1.771272,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579892107,1731579892108,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731579892108,1731579892109,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579892109,1731579892113,4,4279,3925,456.389452,1.952890,0.000507,0.007812,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']
+1731579892113,1731579893719,1606,4279,3925,456.389452,1.952890,0.203600,3.136342,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579893719,1731579893735,16,4279,3925,456.389452,1.952890,0.002028,0.031246,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579893735,1731579896440,2705,4279,3925,456.389452,1.952890,0.342926,5.282569,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579896440,1731579896441,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579896441,1731579896611,170,4279,3925,456.389452,1.952890,0.021552,0.331991,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579896611,1731579896612,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579896612,1731579897447,835,4279,3925,456.389452,1.952890,0.105857,1.630664,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579897447,1731579897472,25,4279,3925,456.389452,1.952890,0.003169,0.048822,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579897472,1731579897778,306,4279,3925,456.389452,1.952890,0.038793,0.597584,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579897778,1731579897786,8,4279,3925,456.389452,1.952890,0.001014,0.015623,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579897786,1731579897904,118,4279,3925,456.389452,1.952890,0.014959,0.230441,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579897904,1731579897922,18,4279,3925,456.389452,1.952890,0.002282,0.035152,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.miui.weather2/.service.job.ScheduleCheckService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579897922,1731579898833,911,4279,3925,456.389452,1.952890,0.115492,1.779083,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579898833,1731579898834,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.miui.analytics/.internal.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579898834,1731579900001,1167,4279,3925,456.389452,1.952890,0.147946,2.279023,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579900001,1731579900003,2,4279,3925,456.389452,1.952890,0.000254,0.003906,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'screen']
+1731579900003,1731579900954,951,4279,3925,456.389452,1.952890,0.120563,1.857199,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579900954,1731579900965,11,4279,3925,456.389452,1.952890,0.001395,0.021482,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579900965,1731579900995,30,4279,3925,456.389452,1.952890,0.003803,0.058587,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579900995,1731579903149,2154,4279,3925,456.389452,1.952890,0.273073,4.206526,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579903149,1731579904343,1194,4279,3925,456.389452,1.952890,0.151369,2.331751,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579904343,1731579904377,34,4279,3925,456.389452,1.952890,0.004310,0.066398,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579904377,1731579909400,5023,4279,3925,456.389452,1.952890,0.636790,9.809369,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579909400,1731579909401,1,4279,3925,456.389452,1.952890,0.000127,0.001953,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579909401,1731579909641,240,4279,3925,456.389452,1.952890,0.030426,0.468694,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579909641,1731579910569,928,4279,3925,456.389452,1.952890,0.117647,1.812282,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579910569,1731579910602,33,4279,3925,456.389452,1.952890,0.004184,0.064445,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579910602,1731579911482,880,4279,3925,456.389452,1.952890,0.111562,1.718544,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579911482,1731579911687,205,4279,3925,456.389452,1.952890,0.025989,0.400343,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579911687,1731579911690,3,4279,3925,456.389452,1.952890,0.000380,0.005859,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579911690,1731579912792,1102,4279,3925,456.389452,1.952890,0.139706,2.152085,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579912792,1731579912822,30,4279,3925,456.389452,1.952890,0.003803,0.058587,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579912822,1731579918463,5641,4279,3925,456.389452,1.952890,0.715137,11.016255,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579918463,1731579918497,34,4279,3925,456.389452,1.952890,0.004310,0.066398,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579918497,1731579918693,196,4279,3925,456.389452,1.952890,0.024848,0.382767,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579918693,1731579919721,1028,4279,3925,456.389452,1.952890,0.130325,2.007571,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579919721,1731579919724,3,4279,3925,456.389452,1.952890,0.000380,0.005859,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579919724,1731579919852,128,4279,3925,456.389452,1.952890,0.016227,0.249970,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579919852,1731579920625,773,4279,3925,456.389452,1.952890,0.097997,1.509584,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579920625,1731579921288,663,4227,3919,1037.463977,4.385360,0.191066,2.907494,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579921288,1731579922961,1673,4227,3919,1037.463977,4.385360,0.482133,7.336708,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579922961,1731579923373,412,4227,3919,1037.463977,4.385360,0.118732,1.806768,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579923373,1731579923374,1,4227,3919,1037.463977,4.385360,0.000288,0.004385,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579923374,1731579923614,240,4227,3919,1037.463977,4.385360,0.069164,1.052486,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579923614,1731579923628,14,4227,3919,1037.463977,4.385360,0.004035,0.061395,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579923628,1731579924523,895,4227,3919,1037.463977,4.385360,0.257925,3.924897,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579924523,1731579924780,257,4227,3919,1037.463977,4.385360,0.074063,1.127038,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579924780,1731579924924,144,4227,3919,1037.463977,4.385360,0.041499,0.631492,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579924924,1731579925122,198,4227,3919,1037.463977,4.385360,0.057061,0.868301,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' '*launch*' 'screen']
+1731579925122,1731579925239,117,4227,3919,1037.463977,4.385360,0.033718,0.513087,com.twitter.android,True,False,True,False,False,False,True,False,['*launch*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579925239,1731579927547,2308,4227,3919,1037.463977,4.385360,0.665130,10.121411,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579927547,1731579927565,18,4227,3919,1037.463977,4.385360,0.005187,0.078936,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579927565,1731579928147,582,4227,3917,287.494011,1.215237,0.046478,0.707268,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579928147,1731579928723,576,4227,3917,287.494011,1.215237,0.045999,0.699977,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579928723,1731579928941,218,4227,3917,287.494011,1.215237,0.017409,0.264922,com.twitter.android,True,False,True,False,False,False,False,False,['*launch*' 'screen']
+1731579928941,1731579929081,140,4227,3917,287.494011,1.215237,0.011180,0.170133,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579929081,1731579929085,4,4227,3917,287.494011,1.215237,0.000319,0.004861,com.twitter.android,True,False,True,False,False,False,False,False,['*alarm*:*job.delay*' 'screen']
+1731579929085,1731579929222,137,4227,3917,287.494011,1.215237,0.010941,0.166487,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579929222,1731579929225,3,4227,3917,287.494011,1.215237,0.000240,0.003646,com.twitter.android,True,False,True,False,False,False,False,False,['*job*/com.android.deskclock/.JobSchedulerService' 'screen']
+1731579929225,1731579929869,644,4227,3917,287.494011,1.215237,0.051429,0.782613,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579929869,1731579929941,72,4227,3917,287.494011,1.215237,0.005750,0.087497,com.twitter.android,True,False,True,False,False,False,False,False,['*launch*' 'screen']
+1731579929941,1731579930415,474,4227,3917,287.494011,1.215237,0.037853,0.576022,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579930415,1731579930461,46,4227,3917,287.494011,1.215237,0.003674,0.055901,com.twitter.android,True,False,True,False,False,False,False,False,['*launch*' 'screen']
+1731579930461,1731579930466,5,4227,3917,287.494011,1.215237,0.000399,0.006076,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' '*launch*' 'screen']
+1731579930466,1731579930543,77,4227,3917,287.494011,1.215237,0.006149,0.093573,com.twitter.android,True,False,True,False,False,False,True,True,['*launch*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579930543,1731579930561,18,4227,3917,287.494011,1.215237,0.001437,0.021874,com.twitter.android,True,False,True,False,False,False,True,True,"['*launch*'
+ '*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579930561,1731579930566,5,4227,3917,287.494011,1.215237,0.000399,0.006076,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579930566,1731579932376,1810,4227,3917,287.494011,1.215237,0.144546,2.199579,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579932376,1731579932696,320,4227,3917,287.494011,1.215237,0.025555,0.388876,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579932696,1731579933122,426,4227,3917,287.494011,1.215237,0.034020,0.517691,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579933122,1731579933156,34,4227,3917,287.494011,1.215237,0.002715,0.041318,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579933156,1731579940087,6931,4227,3917,287.494011,1.215237,0.553506,8.422809,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579940087,1731579942628,2541,4227,3916,1416.765053,5.988666,1.000000,15.217200,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579942628,1731579947490,4862,4227,3915,350.877193,1.483158,0.473879,7.211114,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579947490,1731579947510,20,4227,3915,350.877193,1.483158,0.001949,0.029663,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579947510,1731579947817,307,4227,3915,350.877193,1.483158,0.029922,0.455329,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579947817,1731579948731,914,4227,3915,350.877193,1.483158,0.089084,1.355606,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579948731,1731579948738,7,4227,3915,350.877193,1.483158,0.000682,0.010382,com.twitter.android,True,False,True,False,False,False,False,False,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579948738,1731579948750,12,4227,3915,350.877193,1.483158,0.001170,0.017798,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579948750,1731579949238,488,4227,3915,350.877193,1.483158,0.047563,0.723781,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579949238,1731579949258,20,4227,3915,350.877193,1.483158,0.001949,0.029663,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579949258,1731579949279,21,4227,3915,350.877193,1.483158,0.002047,0.031146,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579949279,1731579949292,13,4227,3915,350.877193,1.483158,0.001267,0.019281,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579949292,1731579949696,404,4227,3915,350.877193,1.483158,0.039376,0.599196,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579949696,1731579950731,1035,4227,3915,350.877193,1.483158,0.100877,1.535068,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579950731,1731579950761,30,4227,3915,350.877193,1.483158,0.002924,0.044495,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579950761,1731579951106,345,4227,3915,350.877193,1.483158,0.033626,0.511689,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579951106,1731579951111,5,4227,3915,350.877193,1.483158,0.000487,0.007416,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579951111,1731579951120,9,4227,3915,350.877193,1.483158,0.000877,0.013348,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579951120,1731579951143,23,4227,3915,350.877193,1.483158,0.002242,0.034113,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579951143,1731579951145,2,4227,3915,350.877193,1.483158,0.000195,0.002966,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579951145,1731579951177,32,4227,3915,350.877193,1.483158,0.003119,0.047461,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.youtube/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579951177,1731579952888,1711,4227,3915,350.877193,1.483158,0.166764,2.537683,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579952888,1731579953588,700,4197,3914,500.838208,2.102018,0.097385,1.471413,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579953588,1731579956482,2894,4197,3914,500.838208,2.102018,0.402618,6.083240,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579956482,1731579956518,36,4197,3914,500.838208,2.102018,0.005008,0.075673,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579956518,1731579958442,1924,4197,3914,500.838208,2.102018,0.267670,4.044283,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579958442,1731579958531,89,4197,3914,500.838208,2.102018,0.012382,0.187080,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579958531,1731579958536,5,4197,3914,500.838208,2.102018,0.000696,0.010510,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579958536,1731579958744,208,4197,3914,500.838208,2.102018,0.028937,0.437220,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579958744,1731579959439,695,4197,3914,500.838208,2.102018,0.096690,1.460902,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579959439,1731579959457,18,4197,3914,500.838208,2.102018,0.002504,0.037836,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579959457,1731579960000,543,4197,3914,500.838208,2.102018,0.075543,1.141396,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579960000,1731579960001,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'screen']
+1731579960001,1731579960097,96,4197,3914,500.838208,2.102018,0.013356,0.201794,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579960097,1731579960296,199,4197,3914,500.838208,2.102018,0.027685,0.418302,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579960296,1731579961195,899,4197,3914,500.838208,2.102018,0.125070,1.889714,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579961195,1731579961236,41,4197,3914,500.838208,2.102018,0.005704,0.086183,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579961236,1731579966696,5460,4197,3914,500.838208,2.102018,0.759605,11.477018,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579966696,1731579966697,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579966697,1731579966968,271,4197,3914,500.838208,2.102018,0.037702,0.569647,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579966968,1731579966969,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579966969,1731579967054,85,4197,3914,500.838208,2.102018,0.011825,0.178672,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' '*telephony-radio*' 'screen']
+1731579967054,1731579967056,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'NetworkStats' '*telephony-radio*' 'screen']
+1731579967056,1731579967067,11,4197,3914,500.838208,2.102018,0.001530,0.023122,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' '*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579967067,1731579967131,64,4197,3914,500.838208,2.102018,0.008904,0.134529,com.twitter.android,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579967131,1731579967160,29,4197,3914,500.838208,2.102018,0.004035,0.060959,com.twitter.android,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579967160,1731579968105,945,4197,3914,500.838208,2.102018,0.131470,1.986407,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579968105,1731579968137,32,4197,3914,500.838208,2.102018,0.004452,0.067265,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579968137,1731579969139,1002,4197,3914,500.838208,2.102018,0.139400,2.106222,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579969139,1731579969173,34,4197,3914,500.838208,2.102018,0.004730,0.071469,com.twitter.android,True,False,True,False,False,False,True,True,"['BuglePhoneApplicationBase#attatchBaseContext -> Application creation -> Application.onCreate -> StartupHandlerImpl#onApplicationCreated -> StartupHandlerImpl#onApplicationCreatedInternal -> PhoneAsyncAppCreateStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579969173,1731579969275,102,4197,3914,500.838208,2.102018,0.014190,0.214406,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579969275,1731579969298,23,4197,3914,500.838208,2.102018,0.003200,0.048346,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579969298,1731579969619,321,4197,3914,500.838208,2.102018,0.044658,0.674748,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579969619,1731579969829,210,4197,3914,500.838208,2.102018,0.029216,0.441424,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579969829,1731579970362,533,4197,3914,500.838208,2.102018,0.074152,1.120376,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579970362,1731579970381,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579970381,1731579970657,276,4197,3914,500.838208,2.102018,0.038398,0.580157,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579970657,1731579971856,1199,4197,3914,500.838208,2.102018,0.166807,2.520320,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579971856,1731579974888,3032,4197,3914,500.838208,2.102018,0.421817,6.373318,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579974888,1731579974914,26,4197,3914,500.838208,2.102018,0.003617,0.054652,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579974914,1731579976676,1762,4197,3914,500.838208,2.102018,0.245132,3.703756,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579976676,1731579976776,100,4197,3914,500.838208,2.102018,0.013912,0.210202,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731579976776,1731579978004,1228,4197,3914,500.838208,2.102018,0.170841,2.581278,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579978004,1731579978063,59,4197,3914,500.838208,2.102018,0.008208,0.124019,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579978063,1731579979003,940,4197,3914,500.838208,2.102018,0.130774,1.975897,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579979003,1731579979036,33,4197,3914,500.838208,2.102018,0.004591,0.069367,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579979036,1731579981677,2641,4197,3914,500.838208,2.102018,0.367420,5.551429,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579981677,1731579982591,914,4197,3914,500.838208,2.102018,0.127157,1.921244,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579982591,1731579982623,32,4197,3914,500.838208,2.102018,0.004452,0.067265,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579982623,1731579984081,1458,4197,3914,500.838208,2.102018,0.202839,3.064742,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984081,1731579984097,16,4197,3914,500.838208,2.102018,0.002226,0.033632,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984097,1731579984110,13,4197,3914,500.838208,2.102018,0.001809,0.027326,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984110,1731579984113,3,4197,3914,500.838208,2.102018,0.000417,0.006306,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984113,1731579984137,24,4197,3914,500.838208,2.102018,0.003339,0.050448,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984137,1731579984152,15,4197,3914,500.838208,2.102018,0.002087,0.031530,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984152,1731579984157,5,4197,3914,500.838208,2.102018,0.000696,0.010510,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984157,1731579984170,13,4197,3914,500.838208,2.102018,0.001809,0.027326,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984170,1731579984891,721,4197,3914,500.838208,2.102018,0.100307,1.515555,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579984891,1731579985088,197,4197,3914,500.838208,2.102018,0.027407,0.414098,com.twitter.android,True,False,True,False,False,False,True,True,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> PhenotypeRestoreStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985088,1731579985274,186,4197,3914,500.838208,2.102018,0.025877,0.390975,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985274,1731579985502,228,4197,3914,500.838208,2.102018,0.031720,0.479260,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985502,1731579985582,80,4197,3914,500.838208,2.102018,0.011130,0.168161,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985582,1731579985668,86,4197,3914,500.838208,2.102018,0.011964,0.180774,com.twitter.android,True,False,True,False,False,False,True,True,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985668,1731579985721,53,4197,3914,500.838208,2.102018,0.007373,0.111407,com.twitter.android,True,False,True,False,False,False,True,True,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985721,1731579985724,3,4197,3914,500.838208,2.102018,0.000417,0.006306,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985724,1731579985725,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985725,1731579985730,5,4197,3914,500.838208,2.102018,0.000696,0.010510,com.twitter.android,True,False,True,False,False,False,True,True,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985730,1731579985737,7,4197,3914,500.838208,2.102018,0.000974,0.014714,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985737,1731579985784,47,4197,3914,500.838208,2.102018,0.006539,0.098795,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985784,1731579985785,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985785,1731579985788,3,4197,3914,500.838208,2.102018,0.000417,0.006306,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985788,1731579985789,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985789,1731579985814,25,4197,3914,500.838208,2.102018,0.003478,0.052550,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985814,1731579985853,39,4197,3914,500.838208,2.102018,0.005426,0.081979,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985853,1731579985854,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985854,1731579985861,7,4197,3914,500.838208,2.102018,0.000974,0.014714,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985861,1731579985862,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985862,1731579985871,9,4197,3914,500.838208,2.102018,0.001252,0.018918,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985871,1731579985873,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985873,1731579985875,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985875,1731579985907,32,4197,3914,500.838208,2.102018,0.004452,0.067265,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579985907,1731579989647,3740,4197,3914,500.838208,2.102018,0.520315,7.861547,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:com.android.providers.calendar.intent.CalendarProvider2'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579989647,1731579989656,9,4197,3914,500.838208,2.102018,0.001252,0.018918,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*' 'AudioMix AudioOut_1D1138' 'screen']
+1731579989656,1731579990071,415,4197,3914,500.838208,2.102018,0.057736,0.872337,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579990071,1731579990076,5,4197,3914,500.838208,2.102018,0.000696,0.010510,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579990076,1731579990164,88,4197,3914,500.838208,2.102018,0.012243,0.184978,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.FixupMessageStatusOnStartupAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990164,1731579990166,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579990166,1731579990178,12,4197,3914,500.838208,2.102018,0.001669,0.025224,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990178,1731579990208,30,4197,3914,500.838208,2.102018,0.004174,0.063061,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990208,1731579990428,220,4197,3914,500.838208,2.102018,0.030607,0.462444,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579990428,1731579990434,6,4197,3914,500.838208,2.102018,0.000835,0.012612,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579990434,1731579990437,3,4197,3914,500.838208,2.102018,0.000417,0.006306,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990437,1731579990446,9,4197,3914,500.838208,2.102018,0.001252,0.018918,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579990446,1731579990447,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990447,1731579990454,7,4197,3914,500.838208,2.102018,0.000974,0.014714,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579990454,1731579991680,1226,4197,3914,500.838208,2.102018,0.170563,2.577074,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579991680,1731579991686,6,4197,3914,500.838208,2.102018,0.000835,0.012612,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579991686,1731579991727,41,4197,3914,500.838208,2.102018,0.005704,0.086183,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731579991727,1731579991728,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731579991728,1731579991744,16,4197,3914,500.838208,2.102018,0.002226,0.033632,com.twitter.android,True,False,True,False,False,False,True,True,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579991744,1731579991751,7,4197,3914,500.838208,2.102018,0.000974,0.014714,com.twitter.android,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731579991751,1731579994337,2586,4197,3914,500.838208,2.102018,0.359769,5.435818,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579994337,1731579994338,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579994338,1731579994789,451,4197,3914,500.838208,2.102018,0.062744,0.948010,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731579994789,1731579994896,107,4197,3914,500.838208,2.102018,0.014886,0.224916,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731579994896,1731579996269,1373,4197,3914,500.838208,2.102018,0.191014,2.886071,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579996269,1731579996297,28,4197,3914,500.838208,2.102018,0.003895,0.058857,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579996297,1731579997576,1279,4197,3914,500.838208,2.102018,0.177937,2.688481,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579997576,1731579997577,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731579997577,1731579997936,359,4197,3914,500.838208,2.102018,0.049945,0.754624,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579997936,1731579998851,915,4197,3914,500.838208,2.102018,0.127296,1.923346,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731579998851,1731579998890,39,4197,3914,500.838208,2.102018,0.005426,0.081979,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731579998890,1731580001680,2790,4197,3914,500.838208,2.102018,0.388150,5.864630,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580001680,1731580001718,38,4197,3914,500.838208,2.102018,0.005287,0.079877,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580001718,1731580004689,2971,4197,3914,500.838208,2.102018,0.413331,6.245095,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580004689,1731580004697,8,4197,3914,500.838208,2.102018,0.001113,0.016816,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'NetworkStats' 'screen']
+1731580004697,1731580004723,26,4197,3914,500.838208,2.102018,0.003617,0.054652,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580004723,1731580004896,173,4197,3914,500.838208,2.102018,0.024068,0.363649,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580004896,1731580006097,1201,4197,3914,500.838208,2.102018,0.167085,2.524524,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580006097,1731580006121,24,4197,3914,500.838208,2.102018,0.003339,0.050448,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580006121,1731580011655,5534,4197,3914,500.838208,2.102018,0.769900,11.632567,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580011655,1731580011688,33,4197,3914,500.838208,2.102018,0.004591,0.069367,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580011688,1731580015537,3849,4197,3914,500.838208,2.102018,0.535480,8.090667,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580015537,1731580015656,119,4197,3914,500.838208,2.102018,0.016555,0.250140,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731580015656,1731580016061,405,4197,3914,500.838208,2.102018,0.056344,0.851317,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580016061,1731580016075,14,4197,3914,500.838208,2.102018,0.001948,0.029428,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580016075,1731580016144,69,4197,3914,500.838208,2.102018,0.009599,0.145039,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580016144,1731580017210,1066,4197,3914,500.838208,2.102018,0.148304,2.240751,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580017210,1731580017239,29,4197,3914,500.838208,2.102018,0.004035,0.060959,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580017239,1731580018256,1017,4197,3914,500.838208,2.102018,0.141487,2.137752,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580018256,1731580018257,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580018257,1731580018463,206,4197,3914,500.838208,2.102018,0.028659,0.433016,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580018463,1731580019337,874,4197,3914,500.838208,2.102018,0.121592,1.837164,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580019337,1731580019380,43,4197,3914,500.838208,2.102018,0.005982,0.090387,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580019380,1731580019399,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580019399,1731580019736,337,4197,3914,500.838208,2.102018,0.046884,0.708380,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580019736,1731580020000,264,4197,3914,500.838208,2.102018,0.036728,0.554933,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580020000,1731580020001,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'screen']
+1731580020001,1731580020677,676,4197,3914,500.838208,2.102018,0.094046,1.420964,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580020677,1731580020720,43,4197,3914,500.838208,2.102018,0.005982,0.090387,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580020720,1731580031496,10776,4197,3914,500.838208,2.102018,1.499176,22.651346,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580031496,1731580031497,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580031497,1731580031664,167,4197,3914,500.838208,2.102018,0.023233,0.351037,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580031664,1731580032579,915,4197,3914,500.838208,2.102018,0.127296,1.923346,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580032579,1731580032598,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580032598,1731580032696,98,4197,3914,500.838208,2.102018,0.013634,0.205998,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580032696,1731580032901,205,4197,3914,500.838208,2.102018,0.028520,0.430914,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580032901,1731580032903,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,False,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580032903,1731580032911,8,4197,3914,500.838208,2.102018,0.001113,0.016816,com.twitter.android,True,False,True,False,False,False,True,False,['*alarm*:*job.delay*' 'NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580032911,1731580032917,6,4197,3914,500.838208,2.102018,0.000835,0.012612,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' '*alarm*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580032917,1731580032921,4,4197,3914,500.838208,2.102018,0.000556,0.008408,com.twitter.android,True,False,True,False,False,False,True,False,['*alarm*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580032921,1731580033034,113,4197,3914,500.838208,2.102018,0.015721,0.237528,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580033034,1731580033069,35,4197,3914,500.838208,2.102018,0.004869,0.073571,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'screen']"
+1731580033069,1731580033096,27,4197,3914,500.838208,2.102018,0.003756,0.056754,com.twitter.android,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'screen']"
+1731580033096,1731580033136,40,4197,3914,500.838208,2.102018,0.005565,0.084081,com.twitter.android,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'screen']"
+1731580033136,1731580033246,110,4197,3914,500.838208,2.102018,0.015303,0.231222,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033246,1731580033299,53,4197,3914,500.838208,2.102018,0.007373,0.111407,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.update.core.UpdateService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033299,1731580033526,227,4197,3914,500.838208,2.102018,0.031581,0.477158,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033526,1731580033528,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,"['*walarm*:report_switch_stats'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033528,1731580033726,198,4197,3914,500.838208,2.102018,0.027546,0.416200,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033726,1731580033808,82,4197,3914,500.838208,2.102018,0.011408,0.172365,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.common.jobqueue.JobQueueService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.update.core.UpdateService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580033808,1731580034002,194,4197,3914,500.838208,2.102018,0.026990,0.407791,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.update.core.UpdateService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580034002,1731580034029,27,4197,3914,500.838208,2.102018,0.003756,0.056754,com.twitter.android,True,False,True,False,False,False,True,True,"['NetworkStats'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.update.core.UpdateService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580034029,1731580034394,365,4197,3914,500.838208,2.102018,0.050779,0.767237,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.update.core.UpdateService'
+ '*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580034394,1731580036214,1820,4197,3914,500.838208,2.102018,0.253202,3.825673,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.facebook.appmanager/com.facebook.oxygen.appmanager.scheduler.schedulers.jobscheduler.JobSchedulerService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580036214,1731580036398,184,4197,3914,500.838208,2.102018,0.025598,0.386771,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580036398,1731580036426,28,4197,3914,500.838208,2.102018,0.003895,0.058857,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580036426,1731580037794,1368,4197,3914,500.838208,2.102018,0.190319,2.875561,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580037794,1731580037897,103,4197,3914,500.838208,2.102018,0.014330,0.216508,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731580037897,1731580038064,167,4197,3914,500.838208,2.102018,0.023233,0.351037,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580038064,1731580038692,628,4197,3914,500.838208,2.102018,0.087368,1.320067,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580038692,1731580038870,178,4197,3914,500.838208,2.102018,0.024764,0.374159,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580038870,1731580038892,22,4197,3914,500.838208,2.102018,0.003061,0.046244,com.twitter.android,True,False,True,False,False,False,False,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580038892,1731580038896,4,4197,3914,500.838208,2.102018,0.000556,0.008408,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580038896,1731580039336,440,4197,3914,500.838208,2.102018,0.061214,0.924888,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580039336,1731580040295,959,4197,3914,500.838208,2.102018,0.133418,2.015835,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580040295,1731580040331,36,4197,3914,500.838208,2.102018,0.005008,0.075673,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580040331,1731580043069,2738,4197,3914,500.838208,2.102018,0.380915,5.755325,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580043069,1731580043095,26,4197,3914,500.838208,2.102018,0.003617,0.054652,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580043095,1731580044788,1693,4197,3914,500.838208,2.102018,0.235533,3.558716,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580044788,1731580044976,188,4197,3914,500.838208,2.102018,0.026155,0.395179,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' '*launch*' 'screen']
+1731580044976,1731580045046,70,4197,3914,500.838208,2.102018,0.009739,0.147141,com.twitter.android,True,False,True,False,False,False,True,False,['*launch*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580045046,1731580046482,1436,4197,3914,500.838208,2.102018,0.199779,3.018498,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580046482,1731580046509,27,4197,3914,500.838208,2.102018,0.003756,0.056754,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580046509,1731580046738,229,4197,3914,500.838208,2.102018,0.031859,0.481362,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580046738,1731580046816,78,4197,3914,500.838208,2.102018,0.010851,0.163957,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' '*launch*' 'screen']
+1731580046816,1731580046841,25,4197,3914,500.838208,2.102018,0.003478,0.052550,com.twitter.android,True,False,True,False,False,False,True,True,['*launch*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580046841,1731580048416,1575,4197,3914,500.838208,2.102018,0.219117,3.310678,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580048416,1731580048718,302,4197,3914,500.838208,2.102018,0.042015,0.634809,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580048718,1731580048776,58,4197,3914,500.838208,2.102018,0.008069,0.121917,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580048776,1731580049338,562,4197,3914,500.838208,2.102018,0.078186,1.181334,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580049338,1731580049359,21,4197,3914,500.838208,2.102018,0.002922,0.044142,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580049359,1731580049536,177,4197,3914,500.838208,2.102018,0.024625,0.372057,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580049536,1731580050028,492,4197,3914,500.838208,2.102018,0.068448,1.034193,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580050028,1731580050226,198,4197,3914,500.838208,2.102018,0.027546,0.416200,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580050226,1731580050227,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580050227,1731580050230,3,4197,3914,500.838208,2.102018,0.000417,0.006306,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580050230,1731580050249,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580050249,1731580050944,695,4197,3914,500.838208,2.102018,0.096690,1.460902,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580050944,1731580050971,27,4197,3914,500.838208,2.102018,0.003756,0.056754,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580050971,1731580051017,46,4197,3914,500.838208,2.102018,0.006400,0.096693,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580051017,1731580051622,605,4197,3914,500.838208,2.102018,0.084169,1.271721,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580051622,1731580051623,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580051623,1731580052647,1024,4197,3914,500.838208,2.102018,0.142461,2.152466,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580052647,1731580052681,34,4197,3914,500.838208,2.102018,0.004730,0.071469,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580052681,1731580053736,1055,4197,3914,500.838208,2.102018,0.146773,2.217629,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580053736,1731580053997,261,4197,3914,500.838208,2.102018,0.036311,0.548627,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580053997,1731580054898,901,4197,3914,500.838208,2.102018,0.125349,1.893918,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580054898,1731580054926,28,4197,3914,500.838208,2.102018,0.003895,0.058857,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580054926,1731580055263,337,4197,3914,500.838208,2.102018,0.046884,0.708380,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580055263,1731580055285,22,4197,3914,500.838208,2.102018,0.003061,0.046244,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580055285,1731580055417,132,4197,3914,500.838208,2.102018,0.018364,0.277466,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580055417,1731580055776,359,4197,3914,500.838208,2.102018,0.049945,0.754624,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580055776,1731580056709,933,4197,3914,500.838208,2.102018,0.129801,1.961183,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580056709,1731580056725,16,4197,3914,500.838208,2.102018,0.002226,0.033632,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580056725,1731580059491,2766,4197,3914,500.838208,2.102018,0.384811,5.814182,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580059491,1731580059526,35,4197,3914,500.838208,2.102018,0.004869,0.073571,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580059526,1731580061136,1610,4197,3914,500.838208,2.102018,0.223986,3.384249,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580061136,1731580061336,200,4197,3914,500.838208,2.102018,0.027824,0.420404,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580061336,1731580062242,906,4197,3914,500.838208,2.102018,0.126044,1.904428,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580062242,1731580062285,43,4197,3914,500.838208,2.102018,0.005982,0.090387,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580062285,1731580064417,2132,4197,3914,500.838208,2.102018,0.296608,4.481502,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580064417,1731580064823,406,4197,3914,500.838208,2.102018,0.056483,0.853419,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580064823,1731580064824,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580064824,1731580065376,552,4197,3914,500.838208,2.102018,0.076795,1.160314,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580065376,1731580065377,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580065377,1731580065704,327,4197,3914,500.838208,2.102018,0.045493,0.687360,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580065704,1731580065722,18,4197,3914,500.838208,2.102018,0.002504,0.037836,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580065722,1731580065777,55,4197,3914,500.838208,2.102018,0.007652,0.115611,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580065777,1731580065778,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580065778,1731580066216,438,4197,3914,500.838208,2.102018,0.060935,0.920684,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580066216,1731580066779,563,4197,3914,500.838208,2.102018,0.078326,1.183436,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580066779,1731580066812,33,4197,3914,500.838208,2.102018,0.004591,0.069367,com.twitter.android,True,False,True,False,False,False,False,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580066812,1731580069244,2432,4197,3914,500.838208,2.102018,0.338344,5.112108,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580069244,1731580069454,210,4197,3914,500.838208,2.102018,0.029216,0.441424,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731580069454,1731580069473,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,False,False,['*alarm*:*job.delay*' 'screen']
+1731580069473,1731580069475,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,False,False,['*alarm*' 'screen']
+1731580069475,1731580069712,237,4197,3914,500.838208,2.102018,0.032972,0.498178,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731580069712,1731580069885,173,4197,3914,500.838208,2.102018,0.024068,0.363649,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextPeriodicUpdateJob'
+ 'screen']"
+1731580069885,1731580069895,10,4197,3914,500.838208,2.102018,0.001391,0.021020,com.twitter.android,True,False,True,False,False,False,False,False,"['*alarm*:*job.delay*'
+ '*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextPeriodicUpdateJob'
+ 'screen']"
+1731580069895,1731580069919,24,4197,3914,500.838208,2.102018,0.003339,0.050448,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextPeriodicUpdateJob'
+ 'screen']"
+1731580069919,1731580069927,8,4197,3914,500.838208,2.102018,0.001113,0.016816,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ '*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextPeriodicUpdateJob'
+ 'screen']"
+1731580069927,1731580070177,250,4197,3914,500.838208,2.102018,0.034780,0.525504,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextPeriodicUpdateJob'
+ 'screen']"
+1731580070177,1731580074016,3839,4197,3914,500.838208,2.102018,0.534088,8.069647,com.twitter.android,True,False,True,False,False,False,False,False,screen
+1731580074016,1731580074036,20,4197,3914,500.838208,2.102018,0.002782,0.042040,com.twitter.android,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731580074036,1731580074086,50,4197,3914,500.838208,2.102018,0.006956,0.105101,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580074086,1731580074092,6,4197,3914,500.838208,2.102018,0.000835,0.012612,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580074092,1731580074531,439,4197,3914,500.838208,2.102018,0.061074,0.922786,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580074531,1731580075018,487,4197,3914,500.838208,2.102018,0.067752,1.023683,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580075018,1731580075020,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580075020,1731580075157,137,4197,3914,500.838208,2.102018,0.019060,0.287976,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580075157,1731580075176,19,4197,3914,500.838208,2.102018,0.002643,0.039938,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580075176,1731580077982,2806,4197,3914,500.838208,2.102018,0.390376,5.898262,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580077982,1731580077984,2,4197,3914,500.838208,2.102018,0.000278,0.004204,com.twitter.android,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580077984,1731580077990,6,4197,3914,500.838208,2.102018,0.000835,0.012612,com.twitter.android,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580077990,1731580077991,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580077991,1731580077992,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580077992,1731580079935,1943,4197,3914,500.838208,2.102018,0.270314,4.084221,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580079935,1731580079956,21,4197,3914,500.838208,2.102018,0.002922,0.044142,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580079956,1731580080001,45,4197,3914,500.838208,2.102018,0.006260,0.094591,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580080001,1731580080002,1,4197,3914,500.838208,2.102018,0.000139,0.002102,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'screen']
+1731580080002,1731580082979,2977,4197,3914,500.838208,2.102018,0.414165,6.257707,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580082979,1731580083012,33,4197,3914,500.838208,2.102018,0.004591,0.069367,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580083012,1731580085966,2954,4197,3914,500.838208,2.102018,0.410966,6.209361,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580085966,1731580086002,36,4197,3914,500.838208,2.102018,0.005008,0.075673,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580086002,1731580096647,10645,4197,3914,500.838208,2.102018,1.480951,22.375981,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580096647,1731580101504,4857,4224,3894,480.792579,2.030868,0.648669,9.863925,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580101504,1731580101520,16,4224,3894,480.792579,2.030868,0.002137,0.032494,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580101520,1731580101731,211,4224,3894,480.792579,2.030868,0.028180,0.428513,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580101731,1731580102878,1147,4224,3894,480.792579,2.030868,0.153186,2.329405,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580102878,1731580102896,18,4224,3894,480.792579,2.030868,0.002404,0.036556,com.twitter.android,True,False,True,False,False,False,False,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580102896,1731580104167,1271,4224,3894,480.792579,2.030868,0.169746,2.581233,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580104167,1731580104178,11,4224,3894,480.792579,2.030868,0.001469,0.022340,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'bugle_datamodel_executor_wakelock' 'screen']
+1731580104178,1731580104192,14,4224,3894,480.792579,2.030868,0.001870,0.028432,com.twitter.android,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction'
+ 'AudioMix AudioOut_1D1138' 'bugle_datamodel_executor_wakelock' 'screen']"
+1731580104192,1731580104373,181,4224,3894,480.792579,2.030868,0.024173,0.367587,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'bugle_datamodel_executor_wakelock' 'screen']
+1731580104373,1731580104734,361,4224,3894,480.792579,2.030868,0.048213,0.733143,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'bugle_datamodel_executor_wakelock' 'screen']
+1731580104734,1731580104792,58,4224,3894,480.792579,2.030868,0.007746,0.117790,com.twitter.android,True,False,True,False,False,False,True,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731580104792,1731580104797,5,4224,3894,480.792579,2.030868,0.000668,0.010154,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580104797,1731580104798,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,False,"['com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction'
+ 'screen']"
+1731580104798,1731580104819,21,4224,3894,480.792579,2.030868,0.002805,0.042648,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580104819,1731580104830,11,4224,3894,480.792579,2.030868,0.001469,0.022340,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580104830,1731580104831,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580104831,1731580105569,738,4224,3894,480.792579,2.030868,0.098562,1.498780,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580105569,1731580105608,39,4224,3894,480.792579,2.030868,0.005209,0.079204,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580105608,1731580109082,3474,4224,3894,480.792579,2.030868,0.463965,7.055235,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580109082,1731580109083,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580109083,1731580110261,1178,4224,3894,480.792579,2.030868,0.157326,2.392362,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580110261,1731580110262,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580110262,1731580115864,5602,4224,3894,480.792579,2.030868,0.748167,11.376922,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580115864,1731580115890,26,4224,3894,480.792579,2.030868,0.003472,0.052803,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580115890,1731580123613,7723,4224,3894,480.792579,2.030868,1.031434,15.684392,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580123613,1731580123661,48,4224,3894,480.792579,2.030868,0.006411,0.097482,com.twitter.android,True,False,True,False,False,False,False,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580123661,1731580123762,101,4224,3894,480.792579,2.030868,0.013489,0.205118,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580123762,1731580124362,600,4224,3894,480.792579,2.030868,0.080132,1.218521,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580124362,1731580124825,463,4224,3894,480.792579,2.030868,0.061835,0.940292,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580124825,1731580124856,31,4224,3894,480.792579,2.030868,0.004140,0.062957,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580124856,1731580128110,3254,4224,3894,480.792579,2.030868,0.434583,6.608444,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580128110,1731580128137,27,4224,3894,480.792579,2.030868,0.003606,0.054833,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580128137,1731580131522,3385,4224,3894,480.792579,2.030868,0.452079,6.874488,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580131522,1731580131523,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,False,screen
+1731580131523,1731580131729,206,4224,3894,480.792579,2.030868,0.027512,0.418359,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580131729,1731580131759,30,4224,3894,480.792579,2.030868,0.004007,0.060926,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580131759,1731580131845,86,4224,3894,480.792579,2.030868,0.011486,0.174655,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580131845,1731580132858,1013,4224,3894,480.792579,2.030868,0.135290,2.057269,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580132858,1731580132874,16,4224,3894,480.792579,2.030868,0.002137,0.032494,com.twitter.android,True,False,True,False,False,False,False,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580132874,1731580132962,88,4224,3894,480.792579,2.030868,0.011753,0.178716,com.twitter.android,True,False,True,False,False,False,False,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580132962,1731580133430,468,4224,3894,480.792579,2.030868,0.062503,0.950446,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580133430,1731580133440,10,4224,3894,480.792579,2.030868,0.001336,0.020309,com.twitter.android,True,False,True,False,False,False,False,False,['*alarm*:*job.delay*' 'AudioMix AudioOut_1D1138' 'screen']
+1731580133440,1731580133463,23,4224,3894,480.792579,2.030868,0.003072,0.046710,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580133463,1731580133464,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133464,1731580133586,122,4224,3894,480.792579,2.030868,0.016294,0.247766,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580133586,1731580133587,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.miui.cloudbackup/.service.QuotaWarningNotificationCheckJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133587,1731580133588,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.miui.cloudbackup/.service.QuotaWarningNotificationCheckJobService'
+ '*job*/com.miui.cloudbackup/.service.NotBackupNotificationCheckJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133588,1731580133597,9,4224,3894,480.792579,2.030868,0.001202,0.018278,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.miui.cloudbackup/.service.QuotaWarningNotificationCheckJobService'
+ '*job*/com.miui.cloudbackup/.service.NotBackupNotificationCheckJobService'
+ '*job*/com.miui.cloudbackup/.cloudcontrol.FetchCloudConfigJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133597,1731580133634,37,4224,3894,480.792579,2.030868,0.004941,0.075142,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.miui.cloudbackup/.service.NotBackupNotificationCheckJobService'
+ '*job*/com.miui.cloudbackup/.cloudcontrol.FetchCloudConfigJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133634,1731580133660,26,4224,3894,480.792579,2.030868,0.003472,0.052803,com.twitter.android,True,False,True,False,False,False,False,False,"['*job*/com.miui.cloudbackup/.cloudcontrol.FetchCloudConfigJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580133660,1731580133706,46,4224,3894,480.792579,2.030868,0.006143,0.093420,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580133706,1731580134452,746,4224,3894,480.792579,2.030868,0.099631,1.515027,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580134452,1731580134538,86,4224,3894,480.792579,2.030868,0.011486,0.174655,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580134538,1731580134555,17,4224,3894,480.792579,2.030868,0.002270,0.034525,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580134555,1731580135443,888,4224,3894,480.792579,2.030868,0.118596,1.803411,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580135443,1731580135682,239,4224,3894,480.792579,2.030868,0.031919,0.485377,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580135682,1731580135683,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580135683,1731580136282,599,4224,3894,480.792579,2.030868,0.079999,1.216490,com.twitter.android,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580136282,1731580136539,257,4224,3894,480.792579,2.030868,0.034323,0.521933,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580136539,1731580136560,21,4224,3894,480.792579,2.030868,0.002805,0.042648,com.twitter.android,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580136560,1731580136642,82,4224,3894,480.792579,2.030868,0.010951,0.166531,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580136642,1731580137282,640,4224,3894,480.792579,2.030868,0.085474,1.299755,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580137282,1731580137491,209,4224,3894,480.792579,2.030868,0.027913,0.424451,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580137491,1731580137492,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580137492,1731580137703,211,4224,3894,480.792579,2.030868,0.028180,0.428513,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580137703,1731580137725,22,4224,3894,480.792579,2.030868,0.002938,0.044679,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580137725,1731580140001,2276,4224,3894,480.792579,2.030868,0.303968,4.622255,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580140001,1731580140002,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'screen']
+1731580140002,1731580141732,1730,4224,3894,480.792579,2.030868,0.231048,3.513401,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580141732,1731580141761,29,4224,3894,480.792579,2.030868,0.003873,0.058895,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580141761,1731580144682,2921,4224,3894,480.792579,2.030868,0.390110,5.932165,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580144682,1731580144974,292,4224,3894,480.792579,2.030868,0.038998,0.593013,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580144974,1731580144977,3,4224,3894,480.792579,2.030868,0.000401,0.006093,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580144977,1731580145135,158,4224,3894,480.792579,2.030868,0.021101,0.320877,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580145135,1731580145163,28,4224,3894,480.792579,2.030868,0.003739,0.056864,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580145163,1731580146123,960,4224,3894,480.792579,2.030868,0.128211,1.949633,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580146123,1731580146415,292,4224,3894,480.792579,2.030868,0.038998,0.593013,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580146415,1731580146416,1,4224,3894,480.792579,2.030868,0.000134,0.002031,com.twitter.android,True,False,True,False,False,False,True,True,screen
+1731580146416,1731580146919,503,4224,3894,480.792579,2.030868,0.067177,1.021527,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580146919,1731580146936,17,4224,3894,480.792579,2.030868,0.002270,0.034525,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580146936,1731580148602,1666,4224,3894,480.792579,2.030868,0.222500,3.383426,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580148602,1731580148802,200,4224,3894,480.792579,2.030868,0.026711,0.406174,com.twitter.android,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731580148802,1731580149695,893,4224,3894,480.792579,2.030868,0.119263,1.813565,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580149695,1731580149715,20,4224,3894,480.792579,2.030868,0.002671,0.040617,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580149715,1731580149719,4,4224,3894,480.792579,2.030868,0.000534,0.008123,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580149719,1731580149745,26,4224,3894,480.792579,2.030868,0.003472,0.052803,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580149745,1731580149763,18,4224,3894,480.792579,2.030868,0.002404,0.036556,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580149763,1731580149770,7,4224,3894,480.792579,2.030868,0.000935,0.014216,com.twitter.android,True,False,True,False,False,False,True,True,"['*job*/com.twitter.android/androidx.work.impl.background.systemjob.SystemJobService'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731580149770,1731580151546,1776,4224,3894,480.792579,2.030868,0.237191,3.606821,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580151546,1731580151573,27,4224,3894,480.792579,2.030868,0.003606,0.054833,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731580151573,1731580155305,3732,4224,3894,480.792579,2.030868,0.498422,7.579199,com.twitter.android,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731580155305,1731580155339,34,4224,3894,480.792579,2.030868,0.004541,0.069050,com.twitter.android,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']

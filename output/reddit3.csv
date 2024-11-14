@@ -1,0 +1,710 @@
+start_time,end_time,Duration (mS),Voltage (mV),Remaining_charge (mAh),Intensity (mA),Power (W),Consumed charge(mAh),Energy (J),Top app,Screen(ON/OFF),GPS(ON/OFF),Mobile_Radio(ON/OFF),WiFi(ON/OFF),Wifi radio,Camera(ON/OFF),Video (ON/OFF),Audio(ON/OFF),Wakelock_in (Service)
+1731582178703,1731582178739,36,4226,3727,389.517204,1.646100,0.003895,0.059260,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582178739,1731582180004,1265,4226,3727,389.517204,1.646100,0.136872,2.082316,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582180004,1731582180007,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731582180007,1731582199687,19680,4226,3727,389.517204,1.646100,2.129361,32.395242,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582199687,1731582199724,37,4226,3727,389.517204,1.646100,0.004003,0.060906,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582199724,1731582206306,6582,4226,3727,389.517204,1.646100,0.712167,10.834628,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582206306,1731582207554,1248,4226,3727,389.517204,1.646100,0.135033,2.054332,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582207554,1731582207555,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138' 'screen']
+1731582207555,1731582207556,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582207556,1731582207557,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582207557,1731582209317,1760,4226,3727,389.517204,1.646100,0.190431,2.897135,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'screen']"
+1731582209317,1731582210563,1246,4226,3727,389.517204,1.646100,0.134816,2.051040,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138' 'screen']"
+1731582210563,1731582210566,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'screen']"
+1731582210566,1731582210568,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138' 'screen']
+1731582210568,1731582210570,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_3D1138' 'screen']
+1731582210570,1731582213212,2642,4226,3727,389.517204,1.646100,0.285862,4.348995,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582213212,1731582214752,1540,4226,3727,389.517204,1.646100,0.166627,2.534994,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582214752,1731582215005,253,4226,3727,389.517204,1.646100,0.027374,0.416463,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582215005,1731582215908,903,4226,3727,389.517204,1.646100,0.097704,1.486428,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582215908,1731582215925,17,4226,3727,389.517204,1.646100,0.001839,0.027984,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582215925,1731582216020,95,4226,3727,389.517204,1.646100,0.010279,0.156379,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582216020,1731582216021,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,screen
+1731582216021,1731582218824,2803,4226,3727,389.517204,1.646100,0.303282,4.614017,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582218824,1731582221664,2840,4226,3727,389.517204,1.646100,0.307286,4.674923,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582221664,1731582221890,226,4226,3727,389.517204,1.646100,0.024453,0.372019,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582221890,1731582221891,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138' 'screen']
+1731582221891,1731582221892,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582221892,1731582221894,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138' 'screen']"
+1731582221894,1731582222269,375,4226,3727,389.517204,1.646100,0.040575,0.617287,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582222269,1731582222270,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582222270,1731582223042,772,4226,3727,389.517204,1.646100,0.083530,1.270789,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582223042,1731582224674,1632,4226,3727,389.517204,1.646100,0.176581,2.686435,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582224674,1731582224693,19,4226,3727,389.517204,1.646100,0.002056,0.031276,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582224693,1731582224894,201,4226,3727,389.517204,1.646100,0.021748,0.330866,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582224894,1731582224895,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582224895,1731582224896,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582224896,1731582224900,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582224900,1731582225736,836,4226,3727,389.517204,1.646100,0.090455,1.376139,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582225736,1731582225755,19,4226,3727,389.517204,1.646100,0.002056,0.031276,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582225755,1731582226068,313,4226,3727,389.517204,1.646100,0.033866,0.515229,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582226068,1731582227923,1855,4226,3727,389.517204,1.646100,0.200710,3.053515,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582227923,1731582227942,19,4226,3727,389.517204,1.646100,0.002056,0.031276,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582227942,1731582233087,5145,4226,3727,389.517204,1.646100,0.556685,8.469183,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582233087,1731582233504,417,4226,3727,389.517204,1.646100,0.045119,0.686424,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582233504,1731582233506,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138' 'screen']
+1731582233506,1731582233507,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582233507,1731582233508,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138' 'screen']"
+1731582233508,1731582234081,573,4226,3727,389.517204,1.646100,0.061998,0.943215,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582234081,1731582234082,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582234082,1731582234408,326,4226,3727,389.517204,1.646100,0.035273,0.536629,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582234408,1731582234427,19,4226,3727,389.517204,1.646100,0.002056,0.031276,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582234427,1731582235538,1111,4226,3727,389.517204,1.646100,0.120209,1.828817,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582235538,1731582235549,11,4226,3727,389.517204,1.646100,0.001190,0.018107,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CallbackRunner' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582235549,1731582235553,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['Wakeful StateMachine: GeofencerStateMachine' 'CallbackRunner'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582235553,1731582235568,15,4226,3727,389.517204,1.646100,0.001623,0.024691,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CallbackRunner' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582235568,1731582235577,9,4226,3727,389.517204,1.646100,0.000974,0.014815,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CallbackRunner' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582235577,1731582235976,399,4226,3727,389.517204,1.646100,0.043171,0.656794,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582235976,1731582236016,40,4226,3727,389.517204,1.646100,0.004328,0.065844,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582236016,1731582236507,491,4226,3727,389.517204,1.646100,0.053126,0.808235,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582236507,1731582236508,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138'
+ 'CollectionLib-SigCollector' 'screen']"
+1731582236508,1731582236509,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582236509,1731582236514,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138'
+ 'CollectionLib-SigCollector' 'screen']"
+1731582236514,1731582236612,98,4226,3727,389.517204,1.646100,0.010604,0.161318,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']
+1731582236612,1731582238211,1599,4226,3727,389.517204,1.646100,0.173011,2.632113,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']
+1731582238211,1731582238291,80,4226,3727,389.517204,1.646100,0.008656,0.131688,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']
+1731582238291,1731582238342,51,4226,3727,389.517204,1.646100,0.005518,0.083951,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector' 'screen']
+1731582238342,1731582238343,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582238343,1731582238344,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582238344,1731582238345,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582238345,1731582238411,66,4226,3727,389.517204,1.646100,0.007141,0.108643,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'CollectionLib-SigCollector'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582238411,1731582238993,582,4226,3727,389.517204,1.646100,0.062972,0.958030,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CollectionLib-SigCollector' 'AudioMix AudioOut_1D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582238993,1731582238995,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CollectionLib-SigCollector' 'CallbackRunner' 'AudioMix AudioOut_1D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582238995,1731582239007,12,4226,3727,389.517204,1.646100,0.001298,0.019753,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['CallbackRunner' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582239007,1731582239303,296,4226,3727,389.517204,1.646100,0.032027,0.487246,com.reddit.frontpage,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582239303,1731582239320,17,4226,3727,389.517204,1.646100,0.001839,0.027984,com.reddit.frontpage,True,False,True,False,False,False,False,True,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582239320,1731582239330,10,4226,3727,389.517204,1.646100,0.001082,0.016461,com.reddit.frontpage,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582239330,1731582239331,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582239331,1731582240000,669,4226,3727,389.517204,1.646100,0.072385,1.101241,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582240000,1731582240005,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582240005,1731582240141,136,4226,3727,389.517204,1.646100,0.014715,0.223870,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582240141,1731582240142,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582240142,1731582240642,500,4226,3727,389.517204,1.646100,0.054100,0.823050,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582240642,1731582240662,20,4226,3727,389.517204,1.646100,0.002164,0.032922,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582240662,1731582241345,683,4226,3727,389.517204,1.646100,0.073900,1.124286,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582241345,1731582241347,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582241347,1731582241348,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582241348,1731582241351,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582241351,1731582242571,1220,4226,3727,389.517204,1.646100,0.132003,2.008242,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582242571,1731582242572,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582242572,1731582243565,993,4226,3727,389.517204,1.646100,0.107442,1.634577,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582243565,1731582243579,14,4226,3727,389.517204,1.646100,0.001515,0.023045,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582243579,1731582243949,370,4226,3727,389.517204,1.646100,0.040034,0.609057,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582243949,1731582243950,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138' 'screen']"
+1731582243950,1731582244005,55,4226,3727,389.517204,1.646100,0.005951,0.090535,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582244005,1731582244010,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.google.android.location.ALARM_WAKEUP_ACTIVITY_DETECTION'
+ 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582244010,1731582244012,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.google.android.location.ALARM_WAKEUP_ACTIVITY_DETECTION'
+ 'CallbackRunner' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582244012,1731582244015,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.google.android.location.ALARM_WAKEUP_ACTIVITY_DETECTION'
+ 'CallbackRunner' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582244015,1731582244019,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['CallbackRunner' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582244019,1731582244981,962,4226,3727,389.517204,1.646100,0.104088,1.583548,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582244981,1731582245001,20,4226,3727,389.517204,1.646100,0.002164,0.032922,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582245001,1731582245608,607,4226,3727,389.517204,1.646100,0.065677,0.999183,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582245608,1731582246952,1344,4226,3727,389.517204,1.646100,0.145420,2.212358,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'CollectionLib-SigCollector' 'screen']"
+1731582246952,1731582246954,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']"
+1731582246954,1731582246955,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'CollectionLib-SigCollector' 'screen']"
+1731582246955,1731582246956,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_D1138' 'CollectionLib-SigCollector' 'screen']
+1731582246956,1731582247436,480,4226,3727,389.517204,1.646100,0.051936,0.790128,com.reddit.frontpage,True,False,True,False,False,False,True,False,['CollectionLib-SigCollector' 'screen']
+1731582247436,1731582247439,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,['CollectionLib-SigCollector' 'CallbackRunner' 'screen']
+1731582247439,1731582247460,21,4226,3727,389.517204,1.646100,0.002272,0.034568,com.reddit.frontpage,True,False,True,False,False,False,True,False,['CallbackRunner' 'screen']
+1731582247460,1731582247461,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['Wakeful StateMachine: GeofencerStateMachine' 'CallbackRunner' 'screen']
+1731582247461,1731582247462,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['Wakeful StateMachine: GeofencerStateMachine' 'PendingIntentClient'
+ 'CallbackRunner' 'screen']"
+1731582247462,1731582247465,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,['PendingIntentClient' 'CallbackRunner' 'screen']
+1731582247465,1731582247467,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,['CallbackRunner' 'screen']
+1731582247467,1731582247470,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,['PendingIntentClient' 'CallbackRunner' 'screen']
+1731582247470,1731582247478,8,4226,3727,389.517204,1.646100,0.000866,0.013169,com.reddit.frontpage,True,False,True,False,False,False,True,False,['CallbackRunner' 'screen']
+1731582247478,1731582247802,324,4226,3727,389.517204,1.646100,0.035057,0.533336,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582247802,1731582247827,25,4226,3727,389.517204,1.646100,0.002705,0.041152,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'screen']
+1731582247827,1731582250081,2254,4226,3727,389.517204,1.646100,0.243881,3.710309,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582250081,1731582250138,57,4226,3727,389.517204,1.646100,0.006167,0.093828,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582250138,1731582251684,1546,4226,3727,389.517204,1.646100,0.167276,2.544870,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582251684,1731582251698,14,4226,3727,389.517204,1.646100,0.001515,0.023045,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582251698,1731582252806,1108,4226,3727,389.517204,1.646100,0.119885,1.823878,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582252806,1731582252822,16,4226,3727,389.517204,1.646100,0.001731,0.026338,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582252822,1731582254155,1333,4226,3727,389.517204,1.646100,0.144230,2.194251,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582254155,1731582254175,20,4226,3727,389.517204,1.646100,0.002164,0.032922,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582254175,1731582255647,1472,4226,3727,389.517204,1.646100,0.159269,2.423059,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582255647,1731582255661,14,4226,3727,389.517204,1.646100,0.001515,0.023045,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582255661,1731582255887,226,4226,3727,389.517204,1.646100,0.024453,0.372019,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582255887,1731582255896,9,4226,3727,389.517204,1.646100,0.000974,0.014815,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582255896,1731582257141,1245,4226,3727,389.517204,1.646100,0.134708,2.049394,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582257141,1731582257160,19,4226,3727,389.517204,1.646100,0.002056,0.031276,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582257160,1731582257460,300,4226,3727,389.517204,1.646100,0.032460,0.493830,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582257460,1731582257463,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582257463,1731582258113,650,4226,3727,389.517204,1.646100,0.070329,1.069965,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582258113,1731582258308,195,4226,3727,389.517204,1.646100,0.021099,0.320989,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258308,1731582258353,45,4226,3727,389.517204,1.646100,0.004869,0.074074,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258353,1731582258587,234,4226,3727,389.517204,1.646100,0.025319,0.385187,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258587,1731582258630,43,4226,3727,389.517204,1.646100,0.004653,0.070782,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258630,1731582258694,64,4226,3727,389.517204,1.646100,0.006925,0.105350,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['BuglePhoneApplicationBase#attatchBaseContext -> Application creation -> Application.onCreate -> StartupHandlerImpl#onApplicationCreated -> StartupHandlerImpl#onApplicationCreatedInternal -> PhoneAsyncAppCreateStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258694,1731582258727,33,4226,3727,389.517204,1.646100,0.003571,0.054321,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ '*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258727,1731582258774,47,4226,3727,389.517204,1.646100,0.005085,0.077367,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258774,1731582258833,59,4226,3727,389.517204,1.646100,0.006384,0.097120,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork()'
+ '*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582258833,1731582259139,306,4226,3727,389.517204,1.646100,0.033109,0.503707,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*walarm*:com.nvsgames.snap/com.unity.androidnotifications.UnityNotificationManager'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582259139,1731582260253,1114,4226,3727,389.517204,1.646100,0.120534,1.833755,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582260253,1731582260349,96,4226,3727,389.517204,1.646100,0.010387,0.158026,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['IntentOp:.common.broadcast.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582260349,1731582260464,115,4226,3727,389.517204,1.646100,0.012443,0.189301,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582260464,1731582273756,13292,4226,3727,389.517204,1.646100,1.438184,21.879957,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582273756,1731582273969,213,4226,3727,389.517204,1.646100,0.023046,0.350619,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> PhenotypeRestoreStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'screen']"
+1731582273969,1731582273973,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> PhenotypeRestoreStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'screen']"
+1731582273973,1731582274012,39,4226,3727,389.517204,1.646100,0.004220,0.064198,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'screen']"
+1731582274012,1731582274143,131,4226,3727,389.517204,1.646100,0.014174,0.215639,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582274143,1731582274222,79,4226,3727,389.517204,1.646100,0.008548,0.130042,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'screen']"
+1731582274222,1731582274276,54,4226,3727,389.517204,1.646100,0.005843,0.088889,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582274276,1731582274291,15,4226,3727,389.517204,1.646100,0.001623,0.024691,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582274291,1731582274295,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274295,1731582274296,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274296,1731582274297,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274297,1731582274298,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274298,1731582274347,49,4226,3727,389.517204,1.646100,0.005302,0.080659,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274347,1731582274348,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274348,1731582274354,6,4226,3727,389.517204,1.646100,0.000649,0.009877,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274354,1731582274364,10,4226,3727,389.517204,1.646100,0.001082,0.016461,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582274364,1731582274365,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274365,1731582274372,7,4226,3727,389.517204,1.646100,0.000757,0.011523,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582274372,1731582274376,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582274376,1731582274377,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'screen']"
+1731582274377,1731582279407,5030,4226,3727,389.517204,1.646100,0.544242,8.279882,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582279407,1731582279412,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582279412,1731582279469,57,4226,3727,389.517204,1.646100,0.006167,0.093828,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.FixupMessageStatusOnStartupAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582279469,1731582279470,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582279470,1731582279476,6,4226,3727,389.517204,1.646100,0.000649,0.009877,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731582279476,1731582279480,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731582279480,1731582279552,72,4226,3727,389.517204,1.646100,0.007790,0.118519,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582279552,1731582279558,6,4226,3727,389.517204,1.646100,0.000649,0.009877,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582279558,1731582279561,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582279561,1731582279572,11,4226,3727,389.517204,1.646100,0.001190,0.018107,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582279572,1731582279574,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582279574,1731582279576,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'screen']"
+1731582279576,1731582280291,715,4226,3727,389.517204,1.646100,0.077362,1.176961,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582280291,1731582280295,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582280295,1731582280312,17,4226,3727,389.517204,1.646100,0.001839,0.027984,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731582280312,1731582280313,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731582280313,1731582280324,11,4226,3727,389.517204,1.646100,0.001190,0.018107,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731582280324,1731582280329,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731582280329,1731582292620,12291,4226,3727,389.517204,1.646100,1.329877,20.232211,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582292620,1731582292645,25,4226,3727,389.517204,1.646100,0.002705,0.041152,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582292645,1731582292777,132,4226,3727,389.517204,1.646100,0.014282,0.217285,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582292777,1731582292778,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582292778,1731582292779,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582292779,1731582292821,42,4226,3727,389.517204,1.646100,0.004544,0.069136,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582292821,1731582292908,87,4226,3727,389.517204,1.646100,0.009413,0.143211,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582292908,1731582292910,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582292910,1731582293542,632,4226,3727,389.517204,1.646100,0.068382,1.040335,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582293542,1731582293593,51,4226,3727,389.517204,1.646100,0.005518,0.083951,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582293593,1731582294299,706,4226,3727,389.517204,1.646100,0.076389,1.162146,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582294299,1731582294316,17,4226,3727,389.517204,1.646100,0.001839,0.027984,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582294316,1731582294380,64,4226,3727,389.517204,1.646100,0.006925,0.105350,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582294380,1731582294381,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582294381,1731582295778,1397,4226,3727,389.517204,1.646100,0.151154,2.299601,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582295778,1731582295783,5,4226,3727,389.517204,1.646100,0.000541,0.008230,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582295783,1731582295785,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582295785,1731582295786,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_151138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582295786,1731582297215,1429,4226,3727,389.517204,1.646100,0.154617,2.352276,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582297215,1731582297801,586,4226,3727,389.517204,1.646100,0.063405,0.964614,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582297801,1731582297829,28,4226,3727,389.517204,1.646100,0.003030,0.046091,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582297829,1731582300006,2177,4226,3727,389.517204,1.646100,0.235550,3.583559,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582300006,1731582300009,3,4226,3727,389.517204,1.646100,0.000325,0.004938,com.reddit.frontpage,True,False,True,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731582300009,1731582312364,12355,4226,3727,389.517204,1.646100,1.336801,20.337562,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582312364,1731582312430,66,4226,3727,389.517204,1.646100,0.007141,0.108643,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582312430,1731582313872,1442,4226,3727,389.517204,1.646100,0.156023,2.373676,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582313872,1731582314974,1102,4226,3727,389.517204,1.646100,0.119236,1.814002,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582314974,1731582315004,30,4226,3727,389.517204,1.646100,0.003246,0.049383,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582315004,1731582315296,292,4226,3727,389.517204,1.646100,0.031594,0.480661,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582315296,1731582315297,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138' 'screen']
+1731582315297,1731582315299,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582315299,1731582315300,1,4226,3727,389.517204,1.646100,0.000108,0.001646,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138' 'screen']"
+1731582315300,1731582316063,763,4226,3727,389.517204,1.646100,0.082556,1.255974,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582316063,1731582316094,31,4226,3727,389.517204,1.646100,0.003354,0.051029,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582316094,1731582316875,781,4226,3727,389.517204,1.646100,0.084504,1.285604,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582316875,1731582317162,287,4226,3727,389.517204,1.646100,0.031053,0.472431,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582317162,1731582317195,33,4226,3727,389.517204,1.646100,0.003571,0.054321,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582317195,1731582318297,1102,4226,3727,389.517204,1.646100,0.119236,1.814002,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582318297,1731582318299,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582318299,1731582318303,4,4226,3727,389.517204,1.646100,0.000433,0.006584,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']
+1731582318303,1731582318305,2,4226,3727,389.517204,1.646100,0.000216,0.003292,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_4D1138' 'screen']
+1731582318305,1731582320270,1965,4226,3727,389.517204,1.646100,0.212611,3.234586,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582320270,1731582334392,14122,4226,3727,389.517204,1.646100,1.527989,23.246220,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582334392,1731582334413,21,4226,3727,389.517204,1.646100,0.002272,0.034568,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582334413,1731582336387,1974,4226,3727,389.517204,1.646100,0.213585,3.249401,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582336387,1731582336421,34,4226,3727,389.517204,1.646100,0.003679,0.055967,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582336421,1731582338993,2572,4226,3727,389.517204,1.646100,0.278288,4.233768,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582338993,1731582339026,33,4226,3727,389.517204,1.646100,0.003571,0.054321,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582339026,1731582341295,2269,4226,3727,389.517204,1.646100,0.245504,3.735000,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582341295,1731582345299,4004,4226,3727,389.517204,1.646100,0.433230,6.590983,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582345299,1731582345392,93,4226,3727,389.517204,1.646100,0.010063,0.153087,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582345392,1731582350815,5423,4226,3727,389.517204,1.646100,0.586764,8.926799,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582350815,1731582354279,3464,4187,3708,628.857575,2.633027,0.605101,9.120804,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582354279,1731582354287,8,4187,3708,628.857575,2.633027,0.001397,0.021064,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582354287,1731582354288,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582354288,1731582355066,778,4187,3708,628.857575,2.633027,0.135903,2.048495,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582355066,1731582357053,1987,4187,3708,628.857575,2.633027,0.347094,5.231824,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582357053,1731582357054,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582357054,1731582357299,245,4187,3708,628.857575,2.633027,0.042797,0.645092,com.reddit.frontpage,True,False,True,False,False,False,True,False,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582357299,1731582357317,18,4187,3708,628.857575,2.633027,0.003144,0.047394,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' '*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582357317,1731582357405,88,4187,3708,628.857575,2.633027,0.015372,0.231706,com.reddit.frontpage,True,False,True,False,False,False,True,False,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582357405,1731582357406,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,True,False,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582357406,1731582357647,241,4187,3708,628.857575,2.633027,0.042099,0.634559,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582357647,1731582358084,437,4187,3708,628.857575,2.633027,0.076336,1.150633,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582358084,1731582360008,1924,4187,3708,628.857575,2.633027,0.336089,5.065943,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582360008,1731582360013,5,4187,3708,628.857575,2.633027,0.000873,0.013165,com.reddit.frontpage,True,False,True,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731582360013,1731582363130,3117,4187,3708,628.857575,2.633027,0.544486,8.207144,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582363130,1731582363153,23,4187,3708,628.857575,2.633027,0.004018,0.060560,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582363153,1731582363155,2,4187,3708,628.857575,2.633027,0.000349,0.005266,com.reddit.frontpage,True,False,True,False,False,False,True,True,screen
+1731582363155,1731582363313,158,4187,3708,628.857575,2.633027,0.027600,0.416018,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582363313,1731582363314,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582363314,1731582363315,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138' 'screen']"
+1731582363315,1731582363361,46,4187,3708,628.857575,2.633027,0.008035,0.121119,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582363361,1731582363411,50,4187,3708,628.857575,2.633027,0.008734,0.131651,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582363411,1731582363641,230,4187,3708,628.857575,2.633027,0.040177,0.605596,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582363641,1731582364633,992,4187,3708,628.857575,2.633027,0.173285,2.611962,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582364633,1731582364652,19,4187,3708,628.857575,2.633027,0.003319,0.050028,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582364652,1731582365371,719,4187,3708,628.857575,2.633027,0.125597,1.893146,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582365371,1731582365926,555,4187,3708,628.857575,2.633027,0.096949,1.461330,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582365926,1731582365944,18,4187,3708,628.857575,2.633027,0.003144,0.047394,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582365944,1731582366316,372,4187,3708,628.857575,2.633027,0.064982,0.979486,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582366316,1731582366317,1,4187,3708,628.857575,2.633027,0.000175,0.002633,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582366317,1731582366320,3,4187,3708,628.857575,2.633027,0.000524,0.007899,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582366320,1731582366323,3,4187,3708,628.857575,2.633027,0.000524,0.007899,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582366323,1731582367155,832,4187,3708,628.857575,2.633027,0.145336,2.190678,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582367155,1731582367170,15,4187,3708,628.857575,2.633027,0.002620,0.039495,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582367170,1731582367989,819,4187,3708,628.857575,2.633027,0.143065,2.156449,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582367989,1731582368311,322,4144,3705,602.265666,2.495789,0.053869,0.803644,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582368311,1731582369426,1115,4144,3705,602.265666,2.495789,0.186535,2.782805,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582369426,1731582369449,23,4144,3705,602.265666,2.495789,0.003848,0.057403,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582369449,1731582370610,1161,4144,3705,602.265666,2.495789,0.194231,2.897611,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582370610,1731582370632,22,4144,3705,602.265666,2.495789,0.003681,0.054907,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582370632,1731582371842,1210,4144,3705,602.265666,2.495789,0.202428,3.019905,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582371842,1731582371869,27,4144,3705,602.265666,2.495789,0.004517,0.067386,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582371869,1731582374293,2424,4144,3705,602.265666,2.495789,0.405526,6.049792,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582374293,1731582374514,221,4144,3705,602.265666,2.495789,0.036972,0.551569,com.reddit.frontpage,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582374514,1731582374515,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582374515,1731582374781,266,4144,3705,602.265666,2.495789,0.044501,0.663880,com.reddit.frontpage,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582374781,1731582374782,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582374782,1731582374790,8,4144,3705,602.265666,2.495789,0.001338,0.019966,com.reddit.frontpage,True,False,True,False,False,False,True,True,['*telephony-radio*' 'AudioMix AudioOut_1D1138' 'screen']
+1731582374790,1731582381676,6886,4144,3705,602.265666,2.495789,1.152000,17.186003,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582381676,1731582381706,30,4144,3705,602.265666,2.495789,0.005019,0.074874,com.reddit.frontpage,True,False,True,False,False,False,True,True,['*walarm*:com.xiaomi.push.PING_TIMER' 'AudioMix AudioOut_1D1138' 'screen']
+1731582381706,1731582393451,11745,4144,3705,602.265666,2.495789,1.964892,29.313041,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582393451,1731582393461,10,4144,3705,602.265666,2.495789,0.001673,0.024958,com.reddit.frontpage,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731582393461,1731582393462,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582393462,1731582393465,3,4144,3705,602.265666,2.495789,0.000502,0.007487,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction'
+ 'com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582393465,1731582393467,2,4144,3705,602.265666,2.495789,0.000335,0.004992,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582393467,1731582393484,17,4144,3705,602.265666,2.495789,0.002844,0.042428,com.reddit.frontpage,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731582393484,1731582393486,2,4144,3705,602.265666,2.495789,0.000335,0.004992,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.CountryCodeDetectorAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582393486,1731582394127,641,4144,3705,602.265666,2.495789,0.107237,1.599801,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['com.google.android.apps.messaging.shared.datamodel.action.SelfParticipantsRefreshAction'
+ 'bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582394127,1731582394128,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,True,['bugle_datamodel_executor_wakelock' 'AudioMix AudioOut_1D1138' 'screen']
+1731582394128,1731582395509,1381,4144,3705,602.265666,2.495789,0.231036,3.446684,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582395509,1731582395547,38,4144,3705,602.265666,2.495789,0.006357,0.094840,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582395547,1731582397041,1494,4144,3705,602.265666,2.495789,0.249940,3.728709,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582397041,1731582397042,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582397042,1731582399849,2807,4144,3705,602.265666,2.495789,0.469600,7.005679,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582399849,1731582403093,3244,4144,3705,602.265666,2.495789,0.542708,8.096339,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582403093,1731582403804,711,4144,3705,602.265666,2.495789,0.118947,1.774506,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582403804,1731582403824,20,4144,3705,602.265666,2.495789,0.003346,0.049916,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582403824,1731582404134,310,4144,3705,602.265666,2.495789,0.051862,0.773695,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582404134,1731582404135,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138' 'screen']
+1731582404135,1731582404137,2,4144,3705,602.265666,2.495789,0.000335,0.004992,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582404137,1731582404138,1,4144,3705,602.265666,2.495789,0.000167,0.002496,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582404138,1731582405821,1683,4144,3705,602.265666,2.495789,0.281559,4.200413,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582405821,1731582405847,26,4144,3705,602.265666,2.495789,0.004350,0.064891,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582405847,1731582406113,266,4144,3705,602.265666,2.495789,0.044501,0.663880,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582406113,1731582407138,1025,4144,3705,602.265666,2.495789,0.171478,2.558184,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582407138,1731582407140,2,4144,3705,602.265666,2.495789,0.000335,0.004992,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582407140,1731582407142,2,4144,3705,602.265666,2.495789,0.000335,0.004992,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']
+1731582407142,1731582407145,3,4144,3705,602.265666,2.495789,0.000502,0.007487,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_4D1138' 'screen']
+1731582407145,1731582408699,1554,4144,3705,602.265666,2.495789,0.259978,3.878456,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582408699,1731582408707,8,4144,3705,602.265666,2.495789,0.001338,0.019966,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582408707,1731582409795,1088,4144,3705,602.265666,2.495789,0.182018,2.715418,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582409795,1731582409818,23,4144,3705,602.265666,2.495789,0.003848,0.057403,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582409818,1731582409831,13,4144,3705,602.265666,2.495789,0.002175,0.032445,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582409831,1731582410844,1013,4144,3698,431.913617,1.789850,0.121536,1.813118,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582410844,1731582410892,48,4144,3698,431.913617,1.789850,0.005759,0.085913,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138' 'screen']
+1731582410892,1731582410893,1,4144,3698,431.913617,1.789850,0.000120,0.001790,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582410893,1731582411489,596,4144,3698,431.913617,1.789850,0.071506,1.066751,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'screen']"
+1731582411489,1731582411517,28,4144,3698,431.913617,1.789850,0.003359,0.050116,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'screen']"
+1731582411517,1731582412243,726,4144,3698,431.913617,1.789850,0.087103,1.299431,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'screen']"
+1731582412243,1731582412529,286,4144,3698,431.913617,1.789850,0.034313,0.511897,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582412529,1731582412546,17,4144,3698,431.913617,1.789850,0.002040,0.030427,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582412546,1731582413560,1014,4144,3698,431.913617,1.789850,0.121656,1.814908,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582413560,1731582413590,30,4144,3698,431.913617,1.789850,0.003599,0.053696,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['NetworkStats' 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582413590,1731582413892,302,4144,3698,431.913617,1.789850,0.036233,0.540535,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582413892,1731582413894,2,4144,3698,431.913617,1.789850,0.000240,0.003580,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582413894,1731582413895,1,4144,3698,431.913617,1.789850,0.000120,0.001790,com.reddit.frontpage,True,False,True,False,False,False,True,True,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582413895,1731582413899,4,4144,3698,431.913617,1.789850,0.000480,0.007159,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582413899,1731582418166,4267,4144,3698,431.913617,1.789850,0.511938,7.637290,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582418166,1731582418552,386,4144,3697,567.465322,2.351576,0.060845,0.907708,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582418552,1731582418569,17,4144,3697,567.465322,2.351576,0.002680,0.039977,com.reddit.frontpage,True,False,True,False,False,False,True,True,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582418569,1731582419231,662,4144,3697,567.465322,2.351576,0.104351,1.556744,com.reddit.frontpage,True,False,True,False,False,False,True,True,['AudioMix AudioOut_1D1138' 'screen']
+1731582419231,1731582419695,464,4144,3697,567.465322,2.351576,0.073140,1.091131,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582419695,1731582419696,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_4D1138' 'screen']
+1731582419696,1731582419700,4,4144,3697,567.465322,2.351576,0.000631,0.009406,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582419700,1731582419701,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582419701,1731582420001,300,4144,3697,567.465322,2.351576,0.047289,0.705473,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582420001,1731582420002,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['*alarm*:TIME_TICK' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582420002,1731582420206,204,4144,3697,567.465322,2.351576,0.032156,0.479722,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582420206,1731582420225,19,4144,3697,567.465322,2.351576,0.002995,0.044680,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582420225,1731582421829,1604,4144,3697,567.465322,2.351576,0.252837,3.771928,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582421829,1731582421847,18,4144,3697,567.465322,2.351576,0.002837,0.042328,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582421847,1731582422244,397,4144,3697,567.465322,2.351576,0.062579,0.933576,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582422244,1731582422697,453,4144,3697,567.465322,2.351576,0.071406,1.065264,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582422697,1731582422698,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582422698,1731582422705,7,4144,3697,567.465322,2.351576,0.001103,0.016461,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_4D1138' 'screen']
+1731582422705,1731582422706,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_4D1138' 'screen']
+1731582422706,1731582425019,2313,4144,3697,567.465322,2.351576,0.364596,5.439196,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582425019,1731582425082,63,4144,3697,567.465322,2.351576,0.009931,0.148149,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'screen']
+1731582425082,1731582432694,7612,4144,3697,567.465322,2.351576,1.199874,17.900199,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582432694,1731582438650,5956,4144,3697,567.465322,2.351576,0.938840,14.005988,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582438650,1731582438669,19,4144,3697,567.465322,2.351576,0.002995,0.044680,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582438669,1731582447605,8936,4144,3697,567.465322,2.351576,1.408575,21.013686,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582447605,1731582447624,19,4144,3697,567.465322,2.351576,0.002995,0.044680,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582447624,1731582454242,6618,4144,3697,567.465322,2.351576,1.043190,15.562732,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582454242,1731582454260,18,4144,3697,567.465322,2.351576,0.002837,0.042328,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582454260,1731582464135,9875,4144,3697,567.465322,2.351576,1.556589,23.221816,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582464135,1731582464195,60,4144,3697,567.465322,2.351576,0.009458,0.141095,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582464195,1731582469738,5543,4144,3697,567.465322,2.351576,0.873739,13.034787,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582469738,1731582469756,18,4144,3697,567.465322,2.351576,0.002837,0.042328,com.reddit.frontpage,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731582469756,1731582469923,167,4144,3697,567.465322,2.351576,0.026324,0.392713,com.reddit.frontpage,True,False,True,False,False,False,False,False,screen
+1731582469923,1731582470387,464,4144,3697,567.465322,2.351576,0.073140,1.091131,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582470387,1731582470388,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138' 'screen']
+1731582470388,1731582470389,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138' 'screen']"
+1731582470389,1731582470942,553,4144,3697,567.465322,2.351576,0.087169,1.300422,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582470942,1731582470964,22,4144,3697,567.465322,2.351576,0.003468,0.051735,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582470964,1731582471286,322,4144,3697,567.465322,2.351576,0.050757,0.757208,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582471286,1731582471577,291,4144,3697,567.465322,2.351576,0.045870,0.684309,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582471577,1731582471990,413,4144,3697,567.465322,2.351576,0.065101,0.971201,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582471990,1731582472072,82,4144,3697,567.465322,2.351576,0.012926,0.192829,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582472072,1731582472933,861,4144,3697,567.465322,2.351576,0.135719,2.024707,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582472933,1731582473109,176,4144,3697,567.465322,2.351576,0.027743,0.413877,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582473109,1731582473131,22,4144,3697,567.465322,2.351576,0.003468,0.051735,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582473131,1731582473391,260,4144,3697,567.465322,2.351576,0.040984,0.611410,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582473391,1731582473392,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582473392,1731582473393,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_151138' 'AudioMix AudioOut_4D1138' 'screen']
+1731582473393,1731582473396,3,4144,3697,567.465322,2.351576,0.000473,0.007055,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_4D1138' 'screen']
+1731582473396,1731582473514,118,4144,3697,567.465322,2.351576,0.018600,0.277486,com.reddit.frontpage,True,False,True,False,False,False,True,False,screen
+1731582473514,1731582474189,675,4144,3697,567.465322,2.351576,0.106400,1.587314,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582474189,1731582474207,18,4144,3697,567.465322,2.351576,0.002837,0.042328,com.reddit.frontpage,True,False,True,False,False,False,True,False,['NetworkStats' 'AudioMix AudioOut_1D1138' 'screen']
+1731582474207,1731582474209,2,4144,3697,567.465322,2.351576,0.000315,0.004703,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'screen']"
+1731582474209,1731582474211,2,4144,3697,567.465322,2.351576,0.000315,0.004703,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'screen']"
+1731582474211,1731582474212,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582474212,1731582474215,3,4144,3697,567.465322,2.351576,0.000473,0.007055,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582474215,1731582475249,1034,4144,3697,567.465322,2.351576,0.162989,2.431530,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582475249,1731582475273,24,4144,3697,567.465322,2.351576,0.003783,0.056438,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582475273,1731582476347,1074,4144,3697,567.465322,2.351576,0.169294,2.525593,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582476347,1731582476366,19,4144,3697,567.465322,2.351576,0.002995,0.044680,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582476366,1731582476534,168,4144,3697,567.465322,2.351576,0.026482,0.395065,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_151138'
+ 'AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'screen']"
+1731582476534,1731582476981,447,4144,3697,567.465322,2.351576,0.070460,1.051155,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138' 'screen']"
+1731582476981,1731582477211,230,4144,3697,567.465322,2.351576,0.036255,0.540863,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_151138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_D1138' 'AudioMix AudioOut_4D1138'
+ 'AudioMix AudioOut_1D1138' 'screen']"
+1731582477211,1731582477216,5,4144,3697,567.465322,2.351576,0.000788,0.011758,com.reddit.frontpage,True,False,True,False,False,False,False,False,"['AudioMix AudioOut_3D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']"
+1731582477216,1731582477219,3,4144,3697,567.465322,2.351576,0.000473,0.007055,com.reddit.frontpage,True,False,True,False,False,False,False,False,['AudioMix AudioOut_4D1138' 'AudioMix AudioOut_1D1138' 'screen']
+1731582477219,1731582477432,213,4144,3697,567.465322,2.351576,0.033575,0.500886,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'screen']
+1731582477432,1731582477433,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138' 'screen']
+1731582477433,1731582477434,1,4144,3697,567.465322,2.351576,0.000158,0.002352,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582477434,1731582477500,66,4144,3697,567.465322,2.351576,0.010404,0.155204,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"
+1731582477500,1731582477523,23,4144,3697,567.465322,2.351576,0.003625,0.054086,com.reddit.frontpage,True,False,True,False,False,False,True,False,"['NetworkStats' 'AudioMix AudioOut_1D1138' 'AudioMix AudioOut_3D1138'
+ 'AudioMix AudioOut_4D1138' 'AudioMix AudioOut_D1138'
+ 'AudioMix AudioOut_151138' 'screen']"

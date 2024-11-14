@@ -1,0 +1,213 @@
+start_time,end_time,Duration (mS),Voltage (mV),Remaining_charge (mAh),Intensity (mA),Power (W),Consumed charge(mAh),Energy (J),Top app,Screen(ON/OFF),GPS(ON/OFF),Mobile_Radio(ON/OFF),WiFi(ON/OFF),Wifi radio,Camera(ON/OFF),Video (ON/OFF),Audio(ON/OFF),Wakelock_in (Service)
+1731577277347,1731577277410,63,4288,4046,137.572608,0.589911,0.002408,0.037164,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577277410,1731577287712,10302,4288,4046,137.572608,0.589911,0.393687,6.077267,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577287712,1731577287714,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287714,1731577287738,24,4288,4046,137.572608,0.589911,0.000917,0.014158,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287738,1731577287739,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577287739,1731577287740,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287740,1731577287803,63,4288,4046,137.572608,0.589911,0.002408,0.037164,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577287803,1731577287814,11,4288,4046,137.572608,0.589911,0.000420,0.006489,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577287814,1731577287917,103,4288,4046,137.572608,0.589911,0.003936,0.060761,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577287917,1731577287918,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287918,1731577287925,7,4288,4046,137.572608,0.589911,0.000268,0.004129,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287925,1731577287926,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577287926,1731577287948,22,4288,4046,137.572608,0.589911,0.000841,0.012978,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577287948,1731577320005,32057,4288,4046,137.572608,0.589911,1.225046,18.910788,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577320005,1731577320008,3,4288,4046,137.572608,0.589911,0.000115,0.001770,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731577320008,1731577346242,26234,4288,4046,137.572608,0.589911,1.002522,15.475734,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577346242,1731577346493,251,4288,4046,137.572608,0.589911,0.009592,0.148068,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577346493,1731577346495,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577346495,1731577346496,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577346496,1731577346717,221,4288,4046,137.572608,0.589911,0.008445,0.130370,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577346717,1731577346718,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577346718,1731577346788,70,4288,4046,137.572608,0.589911,0.002675,0.041294,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577346788,1731577346805,17,4288,4046,137.572608,0.589911,0.000650,0.010028,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577346805,1731577361776,14971,4288,4046,137.572608,0.589911,0.572111,8.831563,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577361776,1731577361779,3,4288,4046,137.572608,0.589911,0.000115,0.001770,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577361779,1731577361780,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577361780,1731577361795,15,4288,4046,137.572608,0.589911,0.000573,0.008849,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577361795,1731577361796,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577361796,1731577361851,55,4288,4046,137.572608,0.589911,0.002102,0.032445,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577361851,1731577361874,23,4288,4046,137.572608,0.589911,0.000879,0.013568,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577361874,1731577362162,288,4288,4046,137.572608,0.589911,0.011006,0.169894,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577362162,1731577362164,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577362164,1731577362174,10,4288,4046,137.572608,0.589911,0.000382,0.005899,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577362174,1731577362175,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577362175,1731577362190,15,4288,4046,137.572608,0.589911,0.000573,0.008849,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577362190,1731577380007,17817,4288,4046,137.572608,0.589911,0.680870,10.510450,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577380007,1731577380009,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731577380009,1731577394880,14871,4288,4046,137.572608,0.589911,0.568290,8.772572,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577394880,1731577395134,254,4288,4046,137.572608,0.589911,0.009707,0.149837,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577395134,1731577395136,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577395136,1731577395137,1,4288,4046,137.572608,0.589911,0.000038,0.000590,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577395137,1731577395352,215,4288,4046,137.572608,0.589911,0.008216,0.126831,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577395352,1731577395354,2,4288,4046,137.572608,0.589911,0.000076,0.001180,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577395354,1731577395424,70,4288,4046,137.572608,0.589911,0.002675,0.041294,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577395424,1731577395441,17,4288,4046,137.572608,0.589911,0.000650,0.010028,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577395441,1731577405726,10285,4288,4046,137.572608,0.589911,0.393037,6.067238,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577405726,1731577406326,600,4288,4041,124.230461,0.532700,0.020705,0.319620,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406326,1731577406338,12,4288,4041,124.230461,0.532700,0.000414,0.006392,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406338,1731577406383,45,4288,4041,124.230461,0.532700,0.001553,0.023972,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406383,1731577406424,41,4288,4041,124.230461,0.532700,0.001415,0.021841,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577406424,1731577406426,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406426,1731577406441,15,4288,4041,124.230461,0.532700,0.000518,0.007991,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406441,1731577406442,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577406442,1731577406489,47,4288,4041,124.230461,0.532700,0.001622,0.025037,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577406489,1731577406509,20,4288,4041,124.230461,0.532700,0.000690,0.010654,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['NetworkStats' 'screen']
+1731577406509,1731577440009,33500,4288,4041,124.230461,0.532700,1.156033,17.845457,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577440009,1731577440012,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731577440012,1731577469599,29587,4288,4041,124.230461,0.532700,1.021002,15.761001,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577469599,1731577469604,5,4288,4041,124.230461,0.532700,0.000173,0.002664,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:miui.intent.action.powerkeeper_alarm' 'screen']
+1731577469604,1731577469620,16,4288,4041,124.230461,0.532700,0.000552,0.008523,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*' 'screen']
+1731577469620,1731577469624,4,4288,4041,124.230461,0.532700,0.000138,0.002131,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577469624,1731577469679,55,4288,4041,124.230461,0.532700,0.001898,0.029299,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*gms_scheduler*:internal' 'screen']
+1731577469679,1731577469708,29,4288,4041,124.230461,0.532700,0.001001,0.015448,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*gms_scheduler*:internal'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577469708,1731577470991,1283,4288,4041,124.230461,0.532700,0.044274,0.683454,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577470991,1731577470998,7,4288,4041,124.230461,0.532700,0.000242,0.003729,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*telephony-radio*'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577470998,1731577472000,1002,4288,4041,124.230461,0.532700,0.034577,0.533766,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472000,1731577472406,406,4288,4041,124.230461,0.532700,0.014010,0.216276,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472406,1731577472408,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*telephony-radio*'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472408,1731577472409,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472409,1731577472630,221,4288,4041,124.230461,0.532700,0.007626,0.117727,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*telephony-radio*'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472630,1731577472631,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*telephony-radio*'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472631,1731577472694,63,4288,4041,124.230461,0.532700,0.002174,0.033560,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472694,1731577472712,18,4288,4041,124.230461,0.532700,0.000621,0.009589,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['NetworkStats'
+ '*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577472712,1731577476039,3327,4288,4041,124.230461,0.532700,0.114810,1.772294,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.phenotype.service.sync.PhenotypeConfigurator'
+ 'screen']"
+1731577476039,1731577476047,8,4288,4041,124.230461,0.532700,0.000276,0.004262,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476047,1731577476050,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*gms_scheduler*:internal' 'screen']
+1731577476050,1731577476051,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476051,1731577476063,12,4288,4041,124.230461,0.532700,0.000414,0.006392,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*gms_scheduler*:internal' 'screen']
+1731577476063,1731577476071,8,4288,4041,124.230461,0.532700,0.000276,0.004262,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*:internal'
+ '*gms_scheduler*/com.google.android.gms/.stats.PlatformStatsCollectorService'
+ 'screen']"
+1731577476071,1731577476139,68,4288,4041,124.230461,0.532700,0.002347,0.036224,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*gms_scheduler*/com.google.android.gms/.stats.PlatformStatsCollectorService'
+ 'screen']"
+1731577476139,1731577476141,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476141,1731577476145,4,4288,4041,124.230461,0.532700,0.000138,0.002131,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*gms_scheduler*:internal' 'screen']
+1731577476145,1731577476148,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*gms_scheduler*:internal' 'screen']
+1731577476148,1731577476436,288,4288,4041,124.230461,0.532700,0.009938,0.153418,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476436,1731577476441,5,4288,4041,124.230461,0.532700,0.000173,0.002664,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['CMWakeLock' 'screen']
+1731577476441,1731577476442,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476442,1731577476453,11,4288,4041,124.230461,0.532700,0.000380,0.005860,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577476453,1731577476776,323,4288,4041,124.230461,0.532700,0.011146,0.172062,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577476776,1731577476797,21,4288,4041,124.230461,0.532700,0.000725,0.011187,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['BuglePhoneApplicationBase#attatchBaseContext -> Application creation -> Application.onCreate -> StartupHandlerImpl#onApplicationCreated -> StartupHandlerImpl#onApplicationCreatedInternal -> PhoneAsyncAppCreateStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'screen']"
+1731577476797,1731577477157,360,4288,4041,124.230461,0.532700,0.012423,0.191772,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577477157,1731577477178,21,4288,4041,124.230461,0.532700,0.000725,0.011187,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'screen']"
+1731577477178,1731577485675,8497,4288,4041,124.230461,0.532700,0.293218,4.526354,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577485675,1731577485687,12,4288,4041,124.230461,0.532700,0.000414,0.006392,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485687,1731577485688,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577485688,1731577485710,22,4288,4041,124.230461,0.532700,0.000759,0.011719,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485710,1731577485711,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577485711,1731577485734,23,4288,4041,124.230461,0.532700,0.000794,0.012252,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485734,1731577485739,5,4288,4041,124.230461,0.532700,0.000173,0.002664,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577485739,1731577485740,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485740,1731577485741,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577485741,1731577485754,13,4288,4041,124.230461,0.532700,0.000449,0.006925,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485754,1731577485755,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577485755,1731577485810,55,4288,4041,124.230461,0.532700,0.001898,0.029299,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577485810,1731577485823,13,4288,4041,124.230461,0.532700,0.000449,0.006925,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['NetworkStats' 'screen']
+1731577485823,1731577491766,5943,4288,4041,124.230461,0.532700,0.205084,3.165837,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577491766,1731577491816,50,4288,4041,124.230461,0.532700,0.001725,0.026635,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> PhenotypeRestoreStartupTask -> PhenotypeHelper#registerPhenotype -> PhenotypeHelper#onBuglePhenotypeChanged -> WorkQueueBatchingImpl#queueWorkItem -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'screen']"
+1731577491816,1731577491889,73,4288,4041,124.230461,0.532700,0.002519,0.038887,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577491889,1731577491928,39,4288,4041,124.230461,0.532700,0.001346,0.020775,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'screen']"
+1731577491928,1731577492014,86,4288,4041,124.230461,0.532700,0.002968,0.045812,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577492014,1731577492067,53,4288,4041,124.230461,0.532700,0.001829,0.028233,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> WorkQueueBatchingImpl#queueWorkItems -> WorkQueueBatchingImpl#schedulingDeferred'
+ 'screen']"
+1731577492067,1731577492074,7,4288,4041,124.230461,0.532700,0.000242,0.003729,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577492074,1731577492096,22,4288,4041,124.230461,0.532700,0.000759,0.011719,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'screen']"
+1731577492096,1731577492105,9,4288,4041,124.230461,0.532700,0.000311,0.004794,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492105,1731577492107,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492107,1731577492109,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492109,1731577492110,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492110,1731577492113,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492113,1731577492116,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ '*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492116,1731577492123,7,4288,4041,124.230461,0.532700,0.000242,0.003729,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['*job*/com.google.android.apps.messaging/androidx.work.impl.background.systemjob.SystemJobService'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492123,1731577492140,17,4288,4041,124.230461,0.532700,0.000587,0.009056,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577492140,1731577492141,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492141,1731577492142,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577492142,1731577492179,37,4288,4041,124.230461,0.532700,0.001277,0.019710,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.SendReportAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577492179,1731577492180,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577492180,1731577492190,10,4288,4041,124.230461,0.532700,0.000345,0.005327,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'screen']"
+1731577492190,1731577492191,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingRevocationsAction'
+ 'screen']"
+1731577492191,1731577497496,5305,4288,4041,124.230461,0.532700,0.183067,2.825975,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577497496,1731577497503,7,4288,4041,124.230461,0.532700,0.000242,0.003729,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577497503,1731577497572,69,4288,4041,124.230461,0.532700,0.002381,0.036756,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.FixupMessageStatusOnStartupAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577497572,1731577497573,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577497573,1731577497579,6,4288,4041,124.230461,0.532700,0.000207,0.003196,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731577497579,1731577497582,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731577497582,1731577497586,4,4288,4041,124.230461,0.532700,0.000138,0.002131,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577497586,1731577497590,4,4288,4041,124.230461,0.532700,0.000138,0.002131,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577497590,1731577497592,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577497592,1731577497603,11,4288,4041,124.230461,0.532700,0.000380,0.005860,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577497603,1731577497604,1,4288,4041,124.230461,0.532700,0.000035,0.000533,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577497604,1731577497606,2,4288,4041,124.230461,0.532700,0.000069,0.001065,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.GenericWorkerQueueAction'
+ 'screen']"
+1731577497606,1731577498095,489,4288,4041,124.230461,0.532700,0.016875,0.260490,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577498095,1731577498103,8,4288,4041,124.230461,0.532700,0.000276,0.004262,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577498103,1731577498122,19,4288,4041,124.230461,0.532700,0.000656,0.010121,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'bugle_datamodel_executor_wakelock' 'screen']"
+1731577498122,1731577498125,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['bugle_datamodel_executor_wakelock' 'screen']
+1731577498125,1731577498140,15,4288,4041,124.230461,0.532700,0.000518,0.007991,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['bugle_datamodel_executor_wakelock'
+ 'com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731577498140,1731577498147,7,4288,4041,124.230461,0.532700,0.000242,0.003729,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,"['com.google.android.apps.messaging.shared.datamodel.action.ProcessPendingMessagesAction'
+ 'screen']"
+1731577498147,1731577500005,1858,4288,4041,124.230461,0.532700,0.064117,0.989757,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577500005,1731577500008,3,4288,4041,124.230461,0.532700,0.000104,0.001598,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731577500008,1731577550618,50610,4288,4041,124.230461,0.532700,1.746473,26.959958,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577550618,1731577560007,9389,4288,4036,198.172410,0.849763,0.516845,7.978428,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577560007,1731577560010,3,4288,4036,198.172410,0.849763,0.000165,0.002549,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,['*alarm*:TIME_TICK' 'screen']
+1731577560010,1731577576029,16019,4288,4036,198.172410,0.849763,0.881812,13.612358,com.mi.android.globallauncher,True,False,False,False,False,False,False,False,screen
+1731577576029,1731577576440,411,4288,4036,198.172410,0.849763,0.022625,0.349253,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577576440,1731577576442,2,4288,4036,198.172410,0.849763,0.000110,0.001700,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577576442,1731577576443,1,4288,4036,198.172410,0.849763,0.000055,0.000850,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577576443,1731577576650,207,4288,4036,198.172410,0.849763,0.011395,0.175901,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577576650,1731577576651,1,4288,4036,198.172410,0.849763,0.000055,0.000850,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577576651,1731577576652,1,4288,4036,198.172410,0.849763,0.000055,0.000850,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*telephony-radio*' 'screen']
+1731577576652,1731577576728,76,4288,4036,198.172410,0.849763,0.004184,0.064582,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577576728,1731577576742,14,4288,4036,198.172410,0.849763,0.000771,0.011897,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['NetworkStats' 'screen']
+1731577576742,1731577581680,4938,4288,4036,198.172410,0.849763,0.271826,4.196131,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,screen
+1731577581680,1731577581708,28,4288,4036,198.172410,0.849763,0.001541,0.023793,com.mi.android.globallauncher,True,False,True,False,False,False,False,False,['*walarm*:com.xiaomi.push.PING_TIMER' 'screen']
